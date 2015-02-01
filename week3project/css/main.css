@@ -1,9 +1,11 @@
 body {
-	background-color: teal;
+	background-image: "imags/week3foto1.jpg";
+	background-size:cover;
 }
 
 h1, p {
-	color: white;
+	color: #fff;
+
 }
 
 
