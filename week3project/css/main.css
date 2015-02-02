@@ -30,7 +30,6 @@ h1 {
 	color: #FFFFFF;
 	font-weight:normal;
 	<<<<<<< HEAD
-	
 
 	line-height: 2;
 	margin: 0px;
@@ -39,7 +38,9 @@ h1 {
 =======
 >>>>>>> origin/master
 }
-
+div {
+	color: #FFFFFF
+}
 .container {
 	margin:0 auto 0 auto;
 	width:72em;
