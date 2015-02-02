@@ -1,6 +1,6 @@
 * { margin:0;padding:0;box-sizing:border-box; }
 body {
-	background-image: url("images/week3foto2.jpg");
+	background-image: url("../images/week3foto2.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	line-height: 1.2em;	
