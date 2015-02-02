@@ -5,7 +5,7 @@ body {
 	line-height: 1.2em;	
 }
 header {
-	position:fixed;top:0;left:0;right:0;
+	position:fixed;top:20px;left:20px;right:0;
 }
 section#splash {
 	background-image: url("../images/week3foto2.jpg");
@@ -24,11 +24,12 @@ h1 {
 	-webkit-margin-start:0px;
 	-webkit-margin-end:0px;
 =======
-	color: #FF33FF;
+	
 >>>>>>> origin/master
 	font-family: Arial, Helvetica, Sans-serif;
+	color: #FFFFFF;
 	font-weight:normal;
-<<<<<<< HEAD
+	<<<<<<< HEAD
 	
 
 	line-height: 2;
