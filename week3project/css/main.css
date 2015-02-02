@@ -41,6 +41,11 @@ div {
 }
 
 h1 {
+	display: block;
+	-webkit-margin-before: 0.67em;
+	-webkit-margin-after: 0.67em;
+	-webkit-margin-start:0px;
+	-webkit-margin-end:0px;
 	font-family: Arial, Helvetica, Sans-serif;
 	text-align: left;
 	font-color: FF33FF;
@@ -48,6 +53,7 @@ h1 {
 	display: block;
 	font-weight:normal;
 	
+
 	line-height: 2;
 	margin: 0px;
 	padding: 0px;
