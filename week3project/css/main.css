@@ -1,19 +1,23 @@
 * { margin:0;padding:0;box-sizing:border-box; }
 body {
-	background-image: url("../images/week3foto2.jpg");
-	background-size:cover;
-	background-repeat:no-repeat;
 	line-height: 1.2em;	
 }
 header {
 	position:fixed;top:0;left:0;right:0;
 }
+section#splash {
+	background-image: url("../images/week3foto2.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:100vh;
+}
+section#splash div {
+	padding:300px 0 0 100px;
+}
 h1 {
 	color: #FF33FF;
 	font-family: Arial, Helvetica, Sans-serif;
 	font-weight:normal;
-	margin: 0px;
-	padding: 0px;
 }
 
 
