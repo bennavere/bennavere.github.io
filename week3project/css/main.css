@@ -39,7 +39,14 @@ h1 {
 >>>>>>> origin/master
 }
 div {
-	color: #FFFFFF
+	color: #FFFFFF;
+}
+h2 {
+	font-family: Merriweather,serif;
+	color: #FFFFFF;
+	font-weight: normal;
+	font-size: 3em;
+	margin: ;
 }
 .container {
 	margin:0 auto 0 auto;
