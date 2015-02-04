@@ -2,7 +2,7 @@
 body {
 	font-family: Arial, Helvetica, Sans-serif;
 	font-size:16px;
-	line-height: 1.2em;	
+	line-height:1.2em;	
 }
 header {
 	position:fixed;top:20px;left:20px;right:0;
@@ -46,6 +46,11 @@ h2 {
 	color: #FFFFFF;
 	font-weight: normal;
 	font-size: 3em;
+	line-height:1.5em;
+
+}
+p {
+	line-height: 1.5em;
 }
 
 .container {
