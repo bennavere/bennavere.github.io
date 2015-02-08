@@ -50,6 +50,9 @@ h2 {
 	padding: ;
 	margin-bottom: 1em;
 }
+h2 span {
+	font-weight:bold;
+}
 p {
 	line-height: ;
 	margin-top: em;
