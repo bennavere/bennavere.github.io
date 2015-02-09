@@ -17,26 +17,17 @@ section#splash div {
 	padding:300px 0 0 100px;
 }
 h1 {
-<<<<<<< HEAD
 	display: block;
-	-webkit-margin-before: 0.67em;
-	-webkit-margin-after: 0.67em;
+	-webkit-margin-before: em;
+	-webkit-margin-after: em;
 	-webkit-margin-start:0px;
 	-webkit-margin-end:0px;
-=======
-	
->>>>>>> origin/master
 	font-family: Arial, Helvetica, Sans-serif;
 	color: #FFFFFF;
 	font-weight:normal;
-	<<<<<<< HEAD
-
 	line-height: 2;
 	margin: 0px;
 	padding: 0px;
-
-=======
->>>>>>> origin/master
 }
 div {
 	color: #FFFFFF;
@@ -46,9 +37,10 @@ h2 {
 	color: #FFFFFF;
 	font-weight: normal;
 	font-size: 4em;
-	line-height: em;
-	padding: ;
-	margin-bottom: 1em;
+	line-height: 1.5em;
+	padding: em;
+	margin-top: em;
+	margin-bottom: em;
 }
 h2 span {
 	font-weight:bold;
