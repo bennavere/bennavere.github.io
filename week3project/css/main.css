@@ -14,14 +14,10 @@ section#splash {
 	height:100vh;
 }
 section#splash div {
-	padding:300px 0 0 100px;
+	padding:200px 0 0 100px;
 }
 h1 {
 	display: block;
-	-webkit-margin-before: em;
-	-webkit-margin-after: em;
-	-webkit-margin-start:0px;
-	-webkit-margin-end:0px;
 	font-family: Arial, Helvetica, Sans-serif;
 	color: #FFFFFF;
 	font-weight:normal;
@@ -38,9 +34,9 @@ h2 {
 	font-weight: normal;
 	font-size: 4em;
 	line-height: 1.5em;
-	padding: em;
-	margin-top: em;
-	margin-bottom: em;
+	padding-top: ;
+	margin-top: .2em;
+	margin-bottom: 1em;
 }
 h2 span {
 	font-weight:bold;
