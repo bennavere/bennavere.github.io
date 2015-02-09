@@ -2,10 +2,10 @@
 body {
 	font-family: Arial, Helvetica, Sans-serif;
 	font-size:16px;
-	line-height:1.2em;	
+	line-height: 1em;	
 }
 header {
-	position:fixed;top:20px;left:20px;right:0;
+	position:fixed;top: 10px;left: 20px;right: 0;
 }
 section#splash {
 	background-image: url("../images/week3foto2.jpg");
@@ -34,7 +34,6 @@ h2 {
 	font-weight: normal;
 	font-size: 4em;
 	line-height: 1.5em;
-	padding-top: ;
 	margin-top: .2em;
 	margin-bottom: 1em;
 }
@@ -45,6 +44,9 @@ p {
 	line-height: ;
 	margin-top: em;
 	padding: .2em;
+}
+a {
+	color: rgb(23,205,229);
 }
 
 .container {
