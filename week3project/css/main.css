@@ -18,7 +18,7 @@ section#splash div {
 }
 h1 {
 	display: block;
-	font-family: Arial, Helvetica, Sans-serif;
+	font-family: Roboto Condensed, Sans-serif;
 	color: #FFFFFF;
 	font-weight:normal;
 	line-height: 2;
@@ -32,7 +32,7 @@ h2 {
 	font-family: Merriweather,serif;
 	color: #FFFFFF;
 	font-weight: normal;
-	font-size: 4em;
+	font-size: 3em;
 	line-height: 1.5em;
 	margin-top: .2em;
 	margin-bottom: 1em;
