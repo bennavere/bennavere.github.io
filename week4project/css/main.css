@@ -26,6 +26,15 @@ h1 {
 	margin: 0px;
 	padding: 0px;
 }
+nav {
+	float: right;
+	margin: 3em;
+}
+nav a {
+	color: #FFFFFF;
+	font-size: 1em;
+	margin-left: 1.5em;
+}
 div {
 	color: #FFFFFF;
 }
