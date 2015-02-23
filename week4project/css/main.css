@@ -25,6 +25,7 @@ h1 {
 	line-height: 2;
 	margin: 0px;
 	padding: 0px;
+	display: inline;
 }
 nav {
 	float: right;
