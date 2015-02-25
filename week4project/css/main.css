@@ -77,6 +77,21 @@ section#content {
 	background-repeat:no-repeat;
 	height:100vh;
 }
+section h2 {
+	font-family: 'Merriweather',serif;
+	color: #FFFFFF;
+	font-size: 2em;
+	font-weight: 300;
+	line-height: 1em;
+	padding: 3em 4em;
+	display: block;	
+}
+section p {
+	font-family: 'Merriweather',serif;
+	color: #FFFFFF;
+	font-weight: 300;
+	font-size: 1.2em;
+}
 .container {
 	margin:0 auto 0 auto;
 	width:72em;
