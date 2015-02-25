@@ -17,16 +17,14 @@ section#splash {
 section#splash div {
 	padding:200px 0 0 100px;
 }
-h1 {
-	display: block;
-	font-family: Roboto Condensed, Sans-serif;
+.logo {
+	font-family: 'Roboto Condensed', Sans-serif;
 	font-size: 2em;
+	float:left;
 	color: #FFFFFF;
 	font-weight:normal;
-	line-height: 2;
 	margin: 0px;
 	padding: 0px;
-	display: inline;
 }
 nav {
 	float: right;
@@ -40,8 +38,8 @@ nav a {
 div {
 	color: #FFFFFF;
 }
-h2 {
-	font-family: Merriweather,serif;
+h1 {
+	font-family: 'Merriweather',serif;
 	color: #FFFFFF;
 	font-weight: 300;
 	font-size: 4.5em;
@@ -49,7 +47,7 @@ h2 {
 	margin-top: .2em;
 	margin-bottom: 1em;
 }
-h2 span {
+h1 span {
 	font-weight:700;
 }
 p {
