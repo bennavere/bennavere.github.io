@@ -20,6 +20,7 @@ section#splash div {
 h1 {
 	display: block;
 	font-family: Roboto Condensed, Sans-serif;
+	font-size: 2em;
 	color: #FFFFFF;
 	font-weight:normal;
 	line-height: 2;
@@ -42,14 +43,14 @@ div {
 h2 {
 	font-family: Merriweather,serif;
 	color: #FFFFFF;
-	font-weight: normal;
-	font-size: 3em;
+	font-weight: 300;
+	font-size: 4.5em;
 	line-height: 1.5em;
 	margin-top: .2em;
 	margin-bottom: 1em;
 }
 h2 span {
-	font-weight:bold;
+	font-weight:700;
 }
 p {
 	line-height: ;
@@ -57,7 +58,7 @@ p {
 	padding: .2em;
 }
 a {
-	color: rgb(23,205,229);
+	color: rgb(62,171,169);
 }
 
 .container {
