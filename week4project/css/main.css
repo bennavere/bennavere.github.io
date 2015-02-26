@@ -64,20 +64,14 @@ p {
 a {
 	color: rgb(62,171,169);
 }
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: "";
-	clear: both;
-	height: 0;
-}
-section#about {
+
+section #about {
 	background-image: url("../images/about.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:100vh;
 }
+
 section h2 {
 	font-family: 'Merriweather',serif;
 	color: #FFFFFF;
@@ -89,11 +83,6 @@ section h2 {
 	margin: ;
 	display: float;	
 }
-img {
-	display: ;
-	width:30%;
-	margin: 0;
-	padding: 0;
 }
 section p {
 	font-family: 'Merriweather',serif;
@@ -111,7 +100,6 @@ section #content {
 }
 
 
-}
 .container {
 	margin:0 auto 0 auto;
 	width:72em;
