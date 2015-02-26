@@ -27,18 +27,18 @@ section#splash div {
 }
 nav {
 	font-family: 'Roboto Condensed', Sans-serif;
-	font-size: 1em;
+	font-size: 1.5em;
 	font-weight: 400;
-
 	float: right;
 	margin: 1em;
 }
 nav a {
 	color: #FFFFFF;
 	font-size: 1em;
+	text-decoration: none;
 	margin-left: 1.5em;
 }
-nav a:hover{
+nav a:hover {
 	background-color: #aaaaaa;
 }
 div {
@@ -64,35 +64,40 @@ p {
 a {
 	color: rgb(62,171,169);
 }
-
-section #about {
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+ #about {
 	background-image: url("../images/about.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:100vh;
 }
-
-section h2 {
+h2 {
 	font-family: 'Merriweather',serif;
 	color: #FFFFFF;
-	font-size: 2em;
+	font-size: 3em;
 	font-weight: 300;
 	line-height: 1em;
 	width: 5em;
 	padding: 3em 4em;
 	margin: ;
-	display: float;	
+	display: rgba(38,51,38,.60);	
 }
-}
-section p {
+p {
 	font-family: 'Merriweather',serif;
 	color: #FFFFFF;
 	font-weight: 300;
 	font-size: 1.2em;
 	float: left;
-	background-color: rgba(38,51,38,.60);
+	background-color: ;
 }
-section #content {
+#content {
 	background-image: url("../images/content.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
