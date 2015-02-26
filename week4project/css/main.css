@@ -78,6 +78,10 @@ a {
 	background-repeat:no-repeat;
 	height:100vh;
 }
+img {
+	width: 20em;
+	padding: 3em;
+}
 h2 {
 	font-family: 'Merriweather',serif;
 	color: #FFFFFF;
@@ -85,7 +89,7 @@ h2 {
 	font-weight: 300;
 	line-height: 1em;
 	width: 5em;
-	padding: 3em 4em;
+	padding: 2em 3em 0 3em;
 	margin: ;
 	display: rgba(38,51,38,.60);	
 }
@@ -94,7 +98,7 @@ p {
 	color: #FFFFFF;
 	font-weight: 300;
 	font-size: 1.2em;
-	float: left;
+	
 	background-color: ;
 }
 #content {
