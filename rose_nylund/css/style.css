@@ -19,13 +19,16 @@ h2 {
 }
 
 img {
+	width: 200px;
 	padding: 20px right;
-	margin: 0;
+	margin: 1em;
+	float: left;
 }
 
 p {
 	color: white;
-	margin: 20px 100px;
+	float: right;
+	
 }
 
 a {
