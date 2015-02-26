@@ -84,9 +84,10 @@ section h2 {
 	font-size: 2em;
 	font-weight: 300;
 	line-height: 1em;
+	width: 5em;
 	padding: 3em 4em;
-	background-color: rgba();
-	display: block;	
+	margin: ;
+	display: float;	
 }
 img {
 	display: ;
@@ -99,8 +100,10 @@ section p {
 	color: #FFFFFF;
 	font-weight: 300;
 	font-size: 1.2em;
-	display: block;
-section#content {
+	float: left;
+	background-color: rgba(38,51,38,.60);
+}
+section #content {
 	background-image: url("../images/content.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
