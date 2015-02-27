@@ -64,6 +64,7 @@ p {
 a {
 	color: rgb(62,171,169);
 }
+<<<<<<< HEAD
 .hand-o-down {
 	font-family: font-awesome;
 	font-size: 5em;
@@ -73,6 +74,8 @@ a {
 	color: #ffffff;
 }
 
+=======
+>>>>>>> parent of 7977724... mywebsite
 .clearfix:after {
 	visibility: hidden;
 	float:right;
