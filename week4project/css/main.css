@@ -65,19 +65,20 @@ a {
 	color: rgb(62,171,169);
 }
 .hand-o-down {
+	font-family: font-awesome;
 	font-size: 2em;
-	height: 20em;
+	height: 2em;
 	color: #ffffff;
 }
-.hand-o-down a {
-	display: inline-block;
-	font-family: FontAwesome;
+.hand-o-down {
+	display: block;
+	font-family: font-awesome;
 	font-style: normal;
-	line-height: 1;
+	line-height: ;
 }
 .clearfix:after {
 	visibility: hidden;
-	display: block;
+	display: inline-block;
 	font-size: 0;
 	content: "";
 	clear: both;
