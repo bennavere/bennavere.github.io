@@ -67,17 +67,22 @@ a {
 <<<<<<< HEAD
 <<<<<<< HEAD
 .hand-o-down {
-	font-family: font-awesome;
 	font-size: 2em;
-	height: 2em;
+	height: 20em;
 	color: #ffffff;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 .hand-o-down {
 	display: block;
 	font-family: font-awesome;
+=======
+.hand-o-down a {
+	display: inline-block;
+	font-family: FontAwesome;
+>>>>>>> parent of ea29d3f... mywebsite
 	font-style: normal;
-	line-height: ;
+	line-height: 1;
 }
 =======
 >>>>>>> parent of 7977724... mywebsite
@@ -90,7 +95,7 @@ a {
 >>>>>>> parent of 7977724... mywebsite
 .clearfix:after {
 	visibility: hidden;
-	display: inline-block;
+	display: block;
 	font-size: 0;
 	content: "";
 	clear: both;
