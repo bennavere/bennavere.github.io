@@ -64,30 +64,21 @@ p {
 a {
 	color: rgb(62,171,169);
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .hand-o-down {
 	font-family: font-awesome;
 	font-size: 2em;
 	height: 2em;
 	color: #ffffff;
 }
-<<<<<<< HEAD
+
 .hand-o-down {
 	display: block;
 	font-family: font-awesome;
 	font-style: normal;
 	line-height: ;
 }
-=======
->>>>>>> parent of 7977724... mywebsite
-=======
 
->>>>>>> parent of 46318d0... mywebsite
-=======
->>>>>>> parent of 7977724... mywebsite
-=======
->>>>>>> parent of 7977724... mywebsite
 .clearfix:after {
 	visibility: hidden;
 	display: inline-block;
