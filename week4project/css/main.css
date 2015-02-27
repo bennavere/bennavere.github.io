@@ -70,13 +70,7 @@ a {
 	font-size: 2em;
 	height: 2em;
 	color: #ffffff;
-}
-
-.hand-o-down {
 	display: block;
-	font-family: 'FontAwesome';
-	font-style: normal;
-	line-height: ;
 }
 
 .clearfix:after {
