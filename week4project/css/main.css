@@ -64,6 +64,17 @@ p {
 a {
 	color: rgb(62,171,169);
 }
+.hand-o-down {
+	font-size: 2em;
+	height: 20em;
+	color: #ffffff;
+}
+.hand-o-down a {
+	display: inline-block;
+	font-family: FontAwesome;
+	font-style: normal;
+	line-height: 1;
+}
 .clearfix:after {
 	visibility: hidden;
 	display: block;
