@@ -18,10 +18,10 @@ section#splash div {
 }
 .logo {
 	font-family: 'Roboto Condensed', Sans-serif;
-	font-size: 2em;
+	font-size: 3em;
 	float:left;
 	color: #FFFFFF;
-	font-weight:normal;
+	font-weight:400;
 	margin: 0px;
 	padding: 0px;
 }
@@ -37,7 +37,7 @@ nav a {
 	font-size: 1em;
 	text-decoration: none;
 	margin-left: 1.5em;
-	padding: .5em;
+	padding: .5em .5em 0 .5em;
 }
 nav a:hover {
 	background-color: #aaaaaa;
@@ -58,12 +58,20 @@ h1 span {
 	font-weight:700;
 }
 p {
-	line-height: ;
-	margin-top: em;
-	padding: .2em;
+	font-size: 1em;
+	margin-top: 1em;
+	
 }
 a {
 	color: rgb(62,171,169);
+}
+.clearfix:after {
+	visibility: hidden;
+	display: inline-block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
 }
 
 .hand-o-down {
@@ -97,12 +105,12 @@ h2 {
 	width: 5em;
 	padding: 2em 3em 0 3em;
 	margin: ;
-	display: rgba(38,51,38,.60);	
+		
 }
 img {
 	width: 20em;
 	padding: 3em 2em 0 3em;
-	float: ;
+	float: left;
 }
 p {
 	font-family: 'Merriweather',serif;
