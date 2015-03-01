@@ -88,10 +88,6 @@ a {
 	background-repeat:no-repeat;
 	height:100vh;
 }
-img {
-	width: 20em;
-	padding: 3em;
-}
 h2 {
 	font-family: 'Merriweather',serif;
 	color: #FFFFFF;
@@ -103,14 +99,20 @@ h2 {
 	margin: ;
 	display: rgba(38,51,38,.60);	
 }
+img {
+	width: 20em;
+	padding: 3em 2em 0 3em;
+	float: left;
+}
 p {
 	font-family: 'Merriweather',serif;
 	color: #FFFFFF;
 	font-weight: 300;
 	font-size: 2em;
 	line-height: 1em;
-	float: right;
-	
+	float: left;
+	padding-top:1.5em;
+	width: 20em;	
 	background-color: ;
 }
 #content {
