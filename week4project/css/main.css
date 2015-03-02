@@ -53,6 +53,8 @@ h1 {
 	line-height: 1.5em;
 	margin-top: .2em;
 	margin-bottom: 1em;
+	margin-right: 10em;
+	background-color: rgba(0,5,6,.7);
 }
 h1 span {
 	font-weight:700;
@@ -63,7 +65,7 @@ p {
 	
 }
 a {
-	color: rgb(62,171,169);
+	color: rgb(14,243,239);
 }
 .clearfix:after {
 	visibility: hidden;
@@ -118,7 +120,6 @@ img {
 	font-weight: 300;
 	font-size: 1.5em;
 	line-height: 1.2em;
-	
 	padding: 1em 1em 1em 0;
 	width: 30em;	
 	background-color: rgba(0,5,6,.7); 
