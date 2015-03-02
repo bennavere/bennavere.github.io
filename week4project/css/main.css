@@ -118,10 +118,10 @@ p {
 	font-weight: 300;
 	font-size: 2em;
 	line-height: 1em;
-	float: left;
-	padding-top:1.5em;
-	width: 20em;	
-	background-color: ;
+	
+	padding-top: 2em;
+	width: 30em;	
+	background-color: ; 
 }
 #content {
 	background-image: url("../images/content.jpg");
