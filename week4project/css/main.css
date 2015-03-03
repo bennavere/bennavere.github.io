@@ -22,7 +22,7 @@ section#splash div {
 	float:left;
 	color: #FFFFFF;
 	font-weight:400;
-	margin: 0px;
+	margin: .2em 0 0 0;
 	padding: 0px;
 }
 nav {
@@ -31,13 +31,14 @@ nav {
 	font-weight: 400;
 	float: right;
 	margin-right: 1em;
+	line-height: 1em;
 }
 nav a {
 	color: #FFFFFF;
 	font-size: 1em;
 	text-decoration: none;
 	margin-left: 1.5em;
-	padding: .5em .5em 0 .5em;
+	padding: 2em .5em .5em .5em;
 }
 nav a:hover {
 	background-color: #aaaaaa;
@@ -50,11 +51,11 @@ h1 {
 	color: #FFFFFF;
 	font-weight: 300;
 	font-size: 4.5em;
-	line-height: 1.5em;
+	line-height: 1em;
 	margin-top: .2em;
 	margin-bottom: 1em;
 	margin-right: 10em;
-	background-color: rgba(0,5,6,.7);
+	background-color:
 }
 h1 span {
 	font-weight:700;
