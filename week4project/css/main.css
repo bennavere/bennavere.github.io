@@ -68,14 +68,7 @@ p {
 a {
 	color: rgb(14,243,239);
 }
-.clearfix:after {
-	visibility: hidden;
-	display: inline-block;
-	font-size: 0;
-	content: "";
-	clear: both;
-	height: 0;
-}
+
 
 .hand-o-down {
 	font-family: 'FontAwesome';
