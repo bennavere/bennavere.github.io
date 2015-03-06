@@ -68,7 +68,28 @@ p {
 a {
 	color: rgb(14,243,239);
 }
-
+h2 {
+	font-family: 'Merriweather',serif;
+	color: #FFFFFF;
+	font-size: 3.5em;
+	font-weight: 300;
+	line-height: 1em;
+	width: 5em;
+	padding: 2em 3em 0 3em;
+	margin-bottom: 1.5em;
+	margin-left: 1.5em;
+		
+}
+#about img {
+	width: 20em;
+	padding: 3em 2em 0 3em;
+	float: left;
+}
+#content img {
+	float:left;
+	padding:1em;
+	width:33.33%;
+}
 
 .hand-o-down {
 	font-family: 'FontAwesome';
@@ -91,23 +112,6 @@ a {
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:100vh;
-}
-h2 {
-	font-family: 'Merriweather',serif;
-	color: #FFFFFF;
-	font-size: 3.5em;
-	font-weight: 300;
-	line-height: 1em;
-	width: 5em;
-	padding: 2em 3em 0 3em;
-	margin-bottom: 1.5em;
-	margin-left: 1.5em;
-		
-}
-img {
-	width: 20em;
-	padding: 3em 2em 0 3em;
-	float: left;
 }
 #about p {
 	font-family: 'Merriweather',serif;
