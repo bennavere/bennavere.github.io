@@ -102,7 +102,9 @@ h2 {
 	position: absolute;
 	bottom: .5em;
 }
-
+.hand-o-down:hover {
+	background-color: #aaaaaa;
+}
 .clearfix:after {
 	visibility: hidden;
 	display: block;
