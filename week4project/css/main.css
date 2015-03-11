@@ -93,24 +93,19 @@ h2 {
 
 .hand-o-down {
 	font-family: 'FontAwesome';
-	font-size: 1em;
-	height: 2em;
+	font-size: 2em;
+	width: 2em;
 	color: #ffffff;
 	display: block;
 	left: 50%;
 	position: absolute;
 	bottom: .5em;
+	text-align:center;
+	background-color:#aaa;
 }
 .hand-o-down:hover {
-	color: #aaaaaa;
-}
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: "";
-	clear: both;
-	height: 0;
+	color: #aaa;
+	background:#fff;
 }
 #about {
 	background-image: url("../images/about.jpg");
@@ -156,4 +151,12 @@ h2 {
 }
 .fa {
 	font-size:2em;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
 }
