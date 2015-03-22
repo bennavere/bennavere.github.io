@@ -120,7 +120,23 @@ h2 {
 	width: 30em;
 	margin-left: 4.5em;	
 	background-color: rgba(0,5,6,.7); 
+}.way-o-down {
+	font-family: 'FontAwesome';
+	font-size: 2em;
+	width: 2em;
+	color: #ffffff;
+	display: block;
+	right: 10%;
+	position: absolute;
+	bottom: .5em;
+	text-align:center;
+	border-radius: 075%;
+	background-color:
+
 }
+.way-o-down:hover {
+	color: #aaa;
+	background:#fff;
 #portfolio {
 	background-color: rgb(127,127,127);
 	background-size: cover;
