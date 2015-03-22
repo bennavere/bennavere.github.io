@@ -121,12 +121,12 @@ h2 {
 	margin-left: 4.5em;	
 	background-color: rgba(0,5,6,.7); 
 }
-#content {
+#portfolio {
 	background-color: rgb(127,127,127);
 	background-size: cover;
 	background-repeat:no-repeat;
 }
-#content h2{
+#portfolio h2{
 	font-family: 'Merriweather',serif;
 	color: #ffffff;
 	font-size: 4em;
