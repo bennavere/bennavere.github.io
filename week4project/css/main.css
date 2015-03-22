@@ -38,7 +38,7 @@ nav a {
 	font-size: 1em;
 	text-decoration: none;
 	margin-left: 1.5em;
-	padding: 2em .5em .5em .5em;
+	padding: .5em .5em .5em .5em;
 }
 nav a:hover {
 	background-color: #aaaaaa;
@@ -96,7 +96,9 @@ h2 {
 	position: absolute;
 	bottom: .5em;
 	text-align:center;
-	background-color:#aaa;
+	border-radius: 075%;
+	background-color:
+
 }
 .hand-o-down:hover {
 	color: #aaa;
