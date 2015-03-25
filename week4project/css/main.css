@@ -168,6 +168,10 @@ h2 {
 #wrapper img {
 	width:100%;
 }
+#travel {
+	float:left;
+	padding: 3em;
+}
 .container {
 	margin:0 auto 0 auto;
 	width:72em;
