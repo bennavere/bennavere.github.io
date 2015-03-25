@@ -2,11 +2,11 @@
 body {
 	font-family: Arial, Helvetica, Sans-serif;
 	font-size:16px;
-	line-height: 1em;	
 }
 header {
 	background-color:#222;
-	position:fixed;top: 10px;left: 20px;right: 0;
+	position:fixed;top:0;left:0;right: 0;
+	padding:1em;
 }
 section#splash {
 	background-image: url("../images/week4project.jpg");
@@ -24,8 +24,6 @@ section#splash div {
 	float:left;
 	color: #FFFFFF;
 	font-weight:400;
-	margin: .7em 0 0 1.63em;
-	padding: 0px;
 	text-decoration:none;
 }
 nav {
@@ -33,8 +31,7 @@ nav {
 	font-size: 1.5em;
 	font-weight: 400;
 	float: right;
-	margin: 1.5em 1em 0 0;
-	line-height: 1em;
+	margin: .75em 1em 0 0;
 }
 nav a {
 	color: #FFFFFF;
