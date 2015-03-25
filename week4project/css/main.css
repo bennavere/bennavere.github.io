@@ -2,10 +2,11 @@
 body {
 	font-family: Arial, Helvetica, Sans-serif;
 	font-size:16px;
-	line-height: 1em;	
 }
 header {
-	position:fixed;top: 10px;left: 20px;right: 0;
+	background-color: #222;
+	position: fixed;top:0;left:0;right:0;
+	padding: 1em;
 }
 section#splash {
 	background-image: url("../images/week4project.jpg");
@@ -17,21 +18,20 @@ section#splash div {
 	padding:200px 0 0 100px;
 }
 .logo {
+	display: block;
 	font-family: 'Roboto Condensed', Sans-serif;
 	font-size: 3em;
 	float:left;
 	color: #FFFFFF;
 	font-weight:400;
-	margin: .7em 0 0 1.63em;
-	padding: 0px;
+	text-decoration: none;
 }
 nav {
 	font-family: 'Roboto Condensed', Sans-serif;
 	font-size: 1.5em;
 	font-weight: 400;
 	float: right;
-	margin: 1.5em 1em 0 0;
-	line-height: 1em;
+	margin: .75em 1em 0 0;
 }
 nav a {
 	color: #FFFFFF;
@@ -42,6 +42,9 @@ nav a {
 }
 nav a:hover {
 	background-color: #aaaaaa;
+}
+#main-header {
+	background-color: rgba(0,0,0,0);
 }
 div {
 	color: #FFFFFF;
