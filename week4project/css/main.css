@@ -168,6 +168,9 @@ h2 {
 #wrapper img {
 	width:100%;
 }
+.photo-header {
+	background-color: rgba(0,5,6,.7);
+}
 #travel {
 	float:right;
 	padding: 0;
