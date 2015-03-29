@@ -180,6 +180,10 @@ h2 {
 	padding: 0;
 	margin: 
 }
+#travel-galery img {
+	width: 100%
+	float:left;
+}
 .container {
 	margin:0 auto 0 auto;
 	width:72em;
