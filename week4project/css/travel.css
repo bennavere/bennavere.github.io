@@ -5,7 +5,7 @@ body {
 }
 header {
 	background-color: rgba(0,5,6,.7);
-	position: fixed;top:0;left:0;right:0;
+	position: relative;top:0;left:0;right:0;
 	padding: 1em 1em 1em 6.3em;
 }
 section#splash {
@@ -90,6 +90,5 @@ h2 {
 	margin: 
 }
 #travel-gallery img {
-	width: 100%
-	position:relative;
+	width: 100%;
 }
