@@ -132,7 +132,7 @@ h2 {
 	color: #ffffff;
 	display: block;
 	right: 10%;
-	position: fixed;
+	position: relative;
 	bottom: .5em;
 	text-align:center;
 	border-radius: 075%;
