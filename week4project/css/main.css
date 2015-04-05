@@ -157,6 +157,7 @@ h2 {
 	font-weight: 400;
 	line-height: 1em;
 	display: block;
+	margin-left: .3em;
 }
 .column {
 	width:22em;
