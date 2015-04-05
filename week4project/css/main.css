@@ -125,7 +125,7 @@ h2 {
 	margin-left: 4.5em;	
 	background-color: rgba(0,5,6,.7); 
 }
-.way-o-down {
+#down-arrow .way-o-down {
 	font-family: 'FontAwesome';
 	font-size: 2em;
 	width: ;
@@ -139,7 +139,7 @@ h2 {
 	background-color:
 
 }
-.way-o-down:hover {
+#down-arrow .way-o-down:hover {
 	color: #aaa;
 	background:#fff;
 }
