@@ -202,6 +202,7 @@ h2 {
 	height: 0;
 }
 #travel-gallery {
+	display: block;
 	float:right;
 	padding: 0;
 	margin: 
