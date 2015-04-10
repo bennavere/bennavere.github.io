@@ -1,1 +1,6 @@
-@media only screen and ()
+@media only screen and (max-width: 1371px) {
+	section#splash div h1 {
+		margin-right: 5em;
+		margin-bottom: .1em;
+	}
+}
