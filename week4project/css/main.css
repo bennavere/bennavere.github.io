@@ -157,7 +157,7 @@ section#about div {
 	color: #aaa;
 	background:;
 }*/
-.way-o-down a {
+a.way-o-down  {
 	font-family: 'FontAwesome';
 	font-size: 1.5em;
 	width: 2em;
