@@ -173,7 +173,7 @@ section#about div {
 .way-o-down:hover {
 	color: #aaa;
 /*	background:;*/
-}*/*/
+}
 #portfolio {
 	background-color: rgb(127,127,127);
 	background-size: cover;
@@ -234,6 +234,6 @@ section#about div {
 	display: block;
 	float:right;
 	padding: 0;
-/*	margin: */
+/*	margin: 
 /*	width:;*/
 }
