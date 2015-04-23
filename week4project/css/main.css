@@ -108,6 +108,9 @@ h2 {
 	color: #aaa;
 /*	background:;*/
 }
+secton#about div {
+	padding:200px 0 0 100px;	
+}
 #about {
 	background-image: url("../images/about.jpg");
 	background-size:cover;
