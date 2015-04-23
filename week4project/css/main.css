@@ -138,7 +138,7 @@ section#about div {
 	clear: both;
 	height: 0;
 }
-#about#hand-o-down {
+/*.hand-o-down {
 	font-family: 'FontAwesome';
 	font-size: 1.5em;
 	width: 2em;
@@ -150,15 +150,15 @@ section#about div {
 	text-align:center;
 	border-radius: 075%;
 /*	background-color:;*/
-}
-#about.hand-o-down:hover {
+}*/
+/*.hand-o-down:hover {
 	color: #aaa;
-/*	background:;*/
-}
-/*.way-o-down {
+	background:;
+}*/
+.way-o-down {
 	font-family: 'FontAwesome';
 	font-size: 1.5em;
-/*	width: ;*/
+	width: ;
 	color: #ffffff;
 	display: block;
 	right: 10%;
@@ -166,14 +166,14 @@ section#about div {
 	bottom: .5em;
 	text-align:center;
 	border-radius: 075%;
-	margin: 2em .5em .5em 55.5em;
-/*	background-color:;*/
+/*	margin: 2em .5em .5em 55.5em;
+*//*	background-color:;*/
 
 }
 .way-o-down:hover {
 	color: #aaa;
 /*	background:;*/
-}*/
+}*/*/
 #portfolio {
 	background-color: rgb(127,127,127);
 	background-size: cover;
