@@ -130,7 +130,20 @@ section#about div {
 /*	margin-left: 4.5em;	*/
 	background-color: rgba(0,5,6,.7); 
 }
-.way-o-down {
+#about.hand-o-down {
+	font-family: 'FontAwesome';
+	font-size: 1.5em;
+	width: 2em;
+	color: #ffffff;
+	display: block;
+	right: 10%;
+	position: relative;
+	bottom: .5em;
+	text-align:center;
+	border-radius: 075%;
+/*	background-color:;*/
+}
+/*.way-o-down {
 	font-family: 'FontAwesome';
 	font-size: 1.5em;
 /*	width: ;*/
@@ -148,7 +161,7 @@ section#about div {
 .way-o-down:hover {
 	color: #aaa;
 /*	background:;*/
-}
+}*/
 #portfolio {
 	background-color: rgb(127,127,127);
 	background-size: cover;
