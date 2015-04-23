@@ -150,7 +150,7 @@ section#about div {
 	text-align:center;
 	border-radius: 075%;
 /*	background-color:;*/
-}*/
+}
 /*.hand-o-down:hover {
 	color: #aaa;
 	background:;
@@ -162,17 +162,16 @@ section#about div {
 	color: #ffffff;
 	display: block;
 	right: 10%;
-	position: absolute;
+	position: relative;
 	bottom: .5em;
 	text-align:center;
 	border-radius: 075%;
-/*	margin: 2em .5em .5em 55.5em;
-*//*	background-color:;*/
-
+/*	margin: 2em .5em .5em 55.5em;*/
+	background-color:;
 }
 .way-o-down:hover {
 	color: #aaa;
-/*	background:;*/
+	background:;
 }
 #portfolio {
 	background-color: rgb(127,127,127);
@@ -238,5 +237,5 @@ section#about div {
 	float:right;
 	padding: 0;
 /*	margin: 
-/*	width:;*/
+/*	width:;
 }
