@@ -139,6 +139,7 @@ section#about div {
 	clear: both;
 	height: 0;
 }
+
 /*.hand-o-down {
 	font-family: 'FontAwesome';
 	font-size: 1.5em;
@@ -151,12 +152,12 @@ section#about div {
 	text-align:center;
 	border-radius: 075%;
 /*	background-color:;*/
-}
+/*}*/
 /*.hand-o-down:hover {
 	color: #aaa;
 	background:;
 }*/
-.way-o-down {
+.way-o-down div {
 	font-family: 'FontAwesome';
 	font-size: 1.5em;
 	width: 2em;
