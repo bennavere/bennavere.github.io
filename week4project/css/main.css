@@ -84,6 +84,7 @@ h2 {
 	margin-left: .6em;
 		
 }
+
 #about img {
 	width: 12em;
 	padding: 0 1em 0em 0;
@@ -108,14 +109,15 @@ h2 {
 	color: #aaa;
 /*	background:;*/
 }
-secton#about div {
-	padding:200px 0 0 100px;	
-}
-#about {
+
+section#about {
 	background-image: url("../images/about.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:100vh;
+}
+section#about div {
+	padding:200px 0 0 100px;	
 }
 #about p {
 	font-family: 'Merriweather',serif;
@@ -141,7 +143,6 @@ secton#about div {
 	border-radius: 075%;
 	margin: 2em .5em .5em 55.5em;
 /*	background-color:;*/
-
 
 }
 .way-o-down:hover {
