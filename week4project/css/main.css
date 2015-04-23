@@ -79,9 +79,9 @@ h2 {
 	font-weight: 300;
 	line-height: 1em;
 	width: 5em;
-	padding: 1.4em 1.3em 0 1.3em;
-	margin-bottom: 0em;
-	margin-left: .6em;
+/*	padding: 1.4em 1.3em 0 1.3em;*/
+/*	margin-bottom: 0em;*/
+/*	margin-left: .6em;*/
 		
 }
 
@@ -127,7 +127,7 @@ section#about div {
 	line-height: 1.2em;
 	padding: 1.5em;
 	width: 40em;
-	margin-left: 4.5em;	
+/*	margin-left: 4.5em;	*/
 	background-color: rgba(0,5,6,.7); 
 }
 .way-o-down {
