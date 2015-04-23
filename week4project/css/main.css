@@ -215,6 +215,9 @@ section#about div {
 	clear: both;
 	height: 0;
 }
+.portrait1 {
+	clip: 0 0 70% 0;
+}
 .container {
 	margin:0 auto 0 auto;
 	width:72em;
