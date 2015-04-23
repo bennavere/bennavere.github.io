@@ -171,7 +171,7 @@ a.way-o-down  {
 /*	margin: 2em .5em .5em 55.5em;*/
 	background-color:;
 }
-.way-o-down:hover {
+a.way-o-down:hover {
 	color: #aaa;
 	background:;
 }
