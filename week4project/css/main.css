@@ -182,6 +182,9 @@ a.way-o-down:hover {
 	background-size: cover;
 	background-repeat:no-repeat;
 }
+section#portfolio div {
+	padding:200px 0 0 100px;
+}
 #portfolio h2{
 	font-family: 'Merriweather',serif;
 	color: #ffffff;
@@ -218,8 +221,10 @@ a.way-o-down:hover {
 	clear: both;
 	height: 0;
 }
+
 #wrapper div.portrait1 {
 	clip: 0 0 70% 0;
+
 }
 .container {
 	margin:0 auto 0 auto;
