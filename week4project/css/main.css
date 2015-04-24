@@ -182,8 +182,8 @@ a.way-o-down:hover {
 	background-size: cover;
 	background-repeat:no-repeat;
 }
-section#portfolio div {
-	padding:200px 0 0 100px;
+section#portfolio {
+	padding:100px 0 0 100px;
 }
 #portfolio h2{
 	font-family: 'Merriweather',serif;
@@ -192,7 +192,7 @@ section#portfolio div {
 	font-weight: 400;
 	line-height: 1em;
 	display: block;
-	margin-left: .3em;
+/*	margin-left: .3em;*/
 }
 .column {
 	width:22em;
