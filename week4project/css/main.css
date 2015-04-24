@@ -109,7 +109,9 @@ h2 {
 	color: #aaa;
 /*	background:;*/
 }
-
+.after-hand-o-down {
+	clear: right;
+}
 section#about {
 	background-image: url("../images/about.jpg");
 	background-size:cover;
