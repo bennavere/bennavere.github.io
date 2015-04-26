@@ -225,7 +225,7 @@ footer a {
 	margin-top: 10em;
 	float: right;
 }
-footer:hover {
+footer a:hover {
 	color: #aaa;
 	background:;
 }
