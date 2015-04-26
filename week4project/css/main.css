@@ -183,7 +183,8 @@ a.way-o-down:hover {
 	background-repeat:no-repeat;
 }
 section#portfolio {
-	padding:100px 0 0 100px;
+	/*padding:100px 0 0 100px;*/
+	padding: 10em 0 15em 10em;
 }
 #portfolio h2{
 	font-family: 'Merriweather',serif;
@@ -214,13 +215,14 @@ section#portfolio {
 	background-color: rgba(0,5,6,.7);
 }
 footer {
-	position: relative;
-	background-color: rgb(127,127,127)
+	position: absolute;
+	background-color: rgb(127,127,127);
 	background:none repeat scroll;
 	padding: 1em 6em 1em 0;
 	width: 100%
 }
 footer a {
+	color: rgb(152 42 0);
 	padding: 0 0.5em;
 	margin-top: 10em;
 	float: right;
