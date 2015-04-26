@@ -217,8 +217,9 @@ section#portfolio {
 footer {
 	position: absolute;
 	background-color: rgb(127,127,127);
-	background-size: cover;
-	background-repeat:no-repeat;
+	background-size: 100%;
+	background: none repeat scroll;
+	/*background-repeat:no-repeat;*/
 	padding: 1em 6em 1em 0;
 	width: 100%
 }
