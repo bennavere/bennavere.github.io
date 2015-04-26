@@ -119,7 +119,7 @@ section#about {
 	height:100vh;
 }
 section#about div {
-	padding:200px 0 0 100px;	
+	padding: 20em 0 0 10em;	
 }
 #about p {
 	font-family: 'Merriweather',serif;
@@ -184,7 +184,7 @@ a.way-o-down:hover {
 }
 section#portfolio {
 	/*padding:100px 0 0 100px;*/
-	padding: 10em 0 15em 10em;
+	padding: 10em 0 14em 10em;
 }
 #portfolio h2{
 	font-family: 'Merriweather',serif;
