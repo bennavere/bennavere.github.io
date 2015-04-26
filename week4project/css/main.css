@@ -224,7 +224,7 @@ footer {
 footer a {
 	color: rgb(152 42 0);
 	padding: 0 0.5em;
-	margin-top: 10em;
+	/*margin-top: 10em;*/
 	float: right;
 }
 footer a:hover {
