@@ -222,7 +222,11 @@ footer {
 }
 footer a {
 	padding: 0 0.5em;
-	float: left;
+	float: right;
+}
+footer:hover {
+	color: #aaa;
+	background:;
 }
 .clearfix:after {
 	visibility: hidden;
