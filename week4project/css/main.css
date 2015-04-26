@@ -215,13 +215,14 @@ section#portfolio {
 }
 footer {
 	position: absolute;
-	background: none repeat scroll 0% 0% #fff;
+	background-color: rgb(127,127,127)
+	background: none repeat scroll;
 	padding: 1em 6em 1em 0;
 	width: 100%
 }
 footer a {
 	padding: 0 0.5em;
-	float: right;
+	float: left;
 }
 .clearfix:after {
 	visibility: hidden;
