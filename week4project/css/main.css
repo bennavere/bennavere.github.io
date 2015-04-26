@@ -214,7 +214,7 @@ section#portfolio {
 	background-color: rgba(0,5,6,.7);
 }
 footer {
-	position: absolute;
+	position: relative;
 	background-color: rgb(127,127,127)
 	background:none repeat scroll;
 	padding: 1em 6em 1em 0;
@@ -222,6 +222,7 @@ footer {
 }
 footer a {
 	padding: 0 0.5em;
+	margin-top: 10em;
 	float: right;
 }
 footer:hover {
