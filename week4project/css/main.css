@@ -97,9 +97,9 @@ h2 {
 	width: 2em;
 	color: #ffffff;
 	display: block;
-	right: 10%;
+	right: 0;
 	position: absolute;
-	bottom: .5em;
+	bottom: 0;
 	text-align:center;
 	border-radius: 075%;
 /*	background-color:;*/
@@ -166,9 +166,9 @@ a.way-o-down  {
 	width: 2em;
 	color: #ffffff;
 	display: block;
-	right: -86.5%;
+	right: 0;
 	position: relative;
-	bottom: 1em;
+	bottom: 0;
 	text-align:center;
 	border-radius: 075%;
 /*	margin: 2em .5em .5em 55.5em;*/
