@@ -7,6 +7,7 @@ header {
 	background-color: rgba(0,5,6,.7);
 	position: fixed;top:0;left:0;right:0;
 	padding: 1em 1em 1em 6.3em;
+	z-index: 1;
 }
 section#splash {
 	background-image: url("../images/week4project.jpg");
