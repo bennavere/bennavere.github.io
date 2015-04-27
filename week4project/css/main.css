@@ -26,6 +26,7 @@ section#splash div {
 	color: #FFFFFF;
 	font-weight:400;
 	text-decoration: none;
+	text-transform: uppercase;
 }
 nav {
 	font-family: 'Roboto Condensed', Sans-serif;
@@ -33,6 +34,7 @@ nav {
 	font-weight: 400;
 	float: right;
 	margin: .75em 1em 0 0;
+	text-transform: uppercase;
 }
 nav a {
 	color: #FFFFFF;
@@ -42,7 +44,7 @@ nav a {
 	padding: .5em .5em .5em .5em;
 }
 nav a:hover {
-	background-color: #aaaaaa;
+	background-color: #4c5c59;
 }
 #main-header {
 	background-color: rgba(0,0,0,0);
