@@ -178,7 +178,7 @@ a.way-o-down:hover {
 	color: #aaa;
 	background:;
 }
-.way-o-down {
+a.way-o-down {
 	position: absolute;
 }
 #portfolio {
