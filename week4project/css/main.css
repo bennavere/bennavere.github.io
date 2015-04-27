@@ -178,9 +178,6 @@ a.way-o-down:hover {
 	color: #aaa;
 	background:;
 }
-a.way-o-down {
-	position: absolute;
-}
 #portfolio {
 	background-color: rgb(127,127,127);
 	background-size: cover;
