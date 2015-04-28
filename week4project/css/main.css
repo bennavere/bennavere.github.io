@@ -20,18 +20,18 @@ section#splash div {
 }
 .logo {
 	display: block;
-	font-family: 'Roboto Condensed', Sans-serif;
+	font-family: 'Roboto', Sans-serif;
 	font-size: 3em;
 	float:left;
 	color: #FFFFFF;
-	font-weight:400;
+	font-weight:700;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 nav {
-	font-family: 'Roboto Condensed', Sans-serif;
+	font-family: 'Roboto', Sans-serif;
 	font-size: 1.5em;
-	font-weight: 400;
+	font-weight: 700;
 	float: right;
 	margin: .75em 1em 0 0;
 	text-transform: uppercase;
@@ -109,7 +109,7 @@ h2 {
 
 }
 .hand-o-down:hover {
-	color: #aaa;
+	color:#4c5c59;
 /*	background:;*/
 }
 .after-hand-o-down {
@@ -178,7 +178,7 @@ a.way-o-down  {
 	background-color:;
 }
 a.way-o-down:hover {
-	color: #aaa;
+	color: #4c5c59;
 	background:;
 }
 #portfolio {
