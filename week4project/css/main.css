@@ -180,7 +180,7 @@ section#about div {
 /*	margin: 2em .5em .5em 55.5em;*/
 	background-color:;
 }
-a.way-o-down:hover {
+.way a:hover {
 	color: #fe5607;
 	background:;
 }
