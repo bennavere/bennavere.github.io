@@ -44,7 +44,7 @@ nav a {
 	padding: .5em .5em .5em .5em;
 }
 nav a:hover {
-	background-color: #4c5c59;
+	background-color: #fe5607;
 }
 #main-header {
 	background-color: rgba(0,0,0,0);
@@ -109,7 +109,7 @@ h2 {
 
 }
 .hand-o-down:hover {
-	color:#4c5c59;
+	color:#fe5607;
 /*	background:;*/
 }
 .after-hand-o-down {
@@ -178,7 +178,7 @@ a.way-o-down  {
 	background-color:;
 }
 a.way-o-down:hover {
-	color: #4c5c59;
+	color: #fe5607;
 	background:;
 }
 #portfolio {
@@ -235,7 +235,7 @@ footer a {
 }
 footer a:hover {
 	/*color: #aaa;*/
-	background-color: #4c5c59;
+	background-color: #fe5607;
 	padding: .2em .2em .2em .2em;
 }
 .clearfix:after {
