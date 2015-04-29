@@ -193,6 +193,9 @@ section#portfolio {
 	/*padding:100px 0 0 100px;*/
 	padding: 9em 0 10em 0em;
 }
+section#portfolio div {
+	/*padding: 200px 0 0 100px;*/
+	padding: 10em 0 0 6.5em;
 #portfolio h2{
 	font-family: 'Merriweather',serif;
 	color: #ffffff;
