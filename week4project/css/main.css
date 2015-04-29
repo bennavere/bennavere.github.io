@@ -208,6 +208,9 @@ section#portfolio div {
 	/*padding: 0em 0em .5em 1.6em;*/
 /*	margin-left: .3em;*/
 }
+.clear div {
+	padding: 0em;
+}
 /*.column {
 	width:22em;
 	height: 18em;
