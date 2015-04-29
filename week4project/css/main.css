@@ -208,7 +208,7 @@ section#portfolio div {
 	/*padding: 0em 0em .5em 1.6em;*/
 /*	margin-left: .3em;*/
 }
-.clear div {
+.cleare:after div {
 	padding: 0em;
 }
 /*.column {
@@ -219,7 +219,7 @@ section#portfolio div {
 	float: left;
 
 }*/
-#wrapper>div {
+#wrapper<div {
 	float:right;
 	padding:.5em;
 	width:33.33%;
