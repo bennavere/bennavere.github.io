@@ -193,7 +193,7 @@ section#portfolio {
 	/*padding:100px 0 0 100px;*/
 	padding: 9em 0 10em 0em;
 }
-section#portfolio div {
+section#portfolio>div {
 	/*padding: 200px 0 0 100px;*/
 	/*padding: 10em 0 0 6.5em;*/
 	padding: 2em 0em 0em 6.5em;
@@ -219,12 +219,12 @@ section#portfolio div {
 	float: left;
 
 }*/
-.wrapper>div {
+#wrapper>div {
 	float:right;
 	padding:.5em;
 	width:33.33%;
 }
-.wrapper img {
+#wrapper img {
 	width:100%;
 }
 .photo-header {
