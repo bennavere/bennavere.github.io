@@ -1,33 +1,19 @@
 @media only screen and (min-width:1011px) and (max-width:1200px) {
 	header {
-	background-color: rgba(0,5,6,.7);
-	position: fixed;top:0;left:0;right:0;
-	padding: 1em 2em .5em 3em;
-	z-index: 1;
-	}
+		padding: 1em 2em .5em 3em;
+		}
 	section#splash div h1 {
 		margin-right: .5em;
 		margin-bottom: .1em;
 	}
 	nav {
-	font-family: 'Roboto', Sans-serif;
-	font-size: 1.5em;
-	font-weight: 700;
-	float: right;
-	margin: .75em 1em 0 0;
-	text-transform: uppercase;
+		margin: .75em 1em 0 0;
 	}
 	nav a {
-	color: #FFFFFF;
-	font-size: 1em;
-	text-decoration: none;
-	margin-left: 0em;
-	padding: .5em .5em .5em .5em;
-	}
-	nav a:hover {
-	background-color: #fe5607;
+		margin-left: 0em;
+		padding: .5em .5em .5em .5em;
 	}
 	h1 {
-	padding: 1em 0em 0em 3.2em;	
+		padding: 1em 0em 0em 3.2em;	
 	}
 }
