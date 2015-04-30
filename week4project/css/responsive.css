@@ -3,8 +3,9 @@
 		padding: 1em 2em .5em 3em;
 		}
 	section#splash div h1 {
-		margin-right: .5em;
-		margin-bottom: .1em;
+		/*margin-right: .5em;
+		margin-bottom: .1em;*/
+		padding: 1em 2em .5em 3em;
 	}
 	nav {
 		margin: .75em 1em 0 0;
@@ -12,8 +13,5 @@
 	nav a {
 		margin-left: 0em;
 		padding: .5em .5em .5em .5em;
-	}
-	h1 {
-		padding: 1em 0em 0em 3.2em;	
 	}
 }
