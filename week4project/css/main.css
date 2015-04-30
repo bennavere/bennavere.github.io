@@ -219,7 +219,7 @@ section#portfolio>div {
 	float: left;
 
 }*/
-#wrapper>div {
+#wrapper div {
 	float:right;
 	padding:.5em;
 	width:33.33%;
