@@ -126,10 +126,11 @@ section#about div {
 	padding: 9em 0 0 6.5em;	
 }
 #about p {
-	font-family: 'Merriweather',serif;
-	color: #FFFFFF;
+	/*font-family: 'Merriweather',serif;*/
+	font-family: 'Robot',Sans-serif;
+	color: #fe5607;
 	font-weight: 400;
-	font-size: 1.1em;
+	font-size: 1.2em;
 	line-height: 1.2em;
 	padding: 1.5em;
 	width: 40em;
