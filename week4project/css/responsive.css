@@ -14,4 +14,7 @@
 		margin-left: 0em;
 		padding: .5em .5em .5em .5em;
 	}
+	section#about div {
+		padding: 9em 2em .5em 3em;
+	}	
 }
