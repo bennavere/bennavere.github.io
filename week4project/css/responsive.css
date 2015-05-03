@@ -16,5 +16,8 @@
 	}
 	section#about div {
 		padding: 9em 2em .5em 3em;
+	}
+	section#portfolio>div {
+	padding: 2em 6.4em 0em 3em;
 	}	
 }
