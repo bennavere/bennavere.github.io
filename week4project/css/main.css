@@ -133,7 +133,7 @@ section#bio {
 	padding: 1.5em 1em 1.5em 1.5em;
 	margin: 1em 30em 1em 0em;
 }
-.bio  p {
+section#bio p {
 	/*font-family: 'Merriweather',serif;*/
 	font-family: 'Robot',Sans-serif;
 	color: #f0e6b1;
