@@ -128,6 +128,11 @@ section#about div {
 	/*padding: 200px 0 0 100px;*/
 	padding: 8.5em 0 0 6.5em;	
 }
+section#bio {
+	background-color: rgba(0,5,6,.7);
+	padding: 1.5em 1em 1.5em 1.5em;
+	margin: 1em 30em 1em 0em;
+}
 .bio  p {
 	/*font-family: 'Merriweather',serif;*/
 	font-family: 'Robot',Sans-serif;
@@ -137,6 +142,7 @@ section#about div {
 	line-height: 1.2em;
 	padding: 1.5em;
 	width: 40em;
+	margin: -.2em;
 /*	margin-left: 4.5em;	*/
 	/*margin-bottom: 2em;*/
 	/*background-color: rgba(0,5,6,.7); */
