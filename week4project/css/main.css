@@ -103,7 +103,7 @@ h2 {
 	width: 2em;
 	color: #ffffff;
 	display: block;
-	right: 4.5em;
+	right: 7%;
 	position: absolute;
 	bottom: 0;
 	text-align:center;
@@ -132,8 +132,8 @@ section#about div {
 section#bio {
 	background-color: rgba(0,5,6,.7);
 	padding: 1.5em 1em 1.5em 1.5em;
-	margin: 1em 0em 1em 0em;
-	width: 65%;
+	/*margin: 1em 0em 1em 0em;*/
+	width: 70%;
 	/*margin: 1em 30em 1em 0em;*/
 }
 section#bio p {  
@@ -185,7 +185,7 @@ section#bio p {
 	width: 2em;
 	color: #ffffff;
 	display: block;
-	right: 4.5em;
+	right: 7%;
 	position: absolute;
 	bottom: 0;
 	text-align:center;
