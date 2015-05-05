@@ -142,11 +142,11 @@ h2 {
 	font-weight: 400;
 	font-size: 1.2em;
 	line-height: 1.2em;
-	/*padding: 1.5em;*/
+	padding: 1.5em;
 	width: 40em;
 	margin: -.2em;
-/*	margin-left: 4.5em;	*/
-	/*margin-bottom: 2em;*/
+	margin-left: 4.5em;	
+	margin-bottom: 2em;
 	background-color: rgba(0,5,6,.7); 
 }
 .clearfix:after {
