@@ -81,7 +81,7 @@ a {
 h2 {
 	font-family: 'Merriweather',serif;
 	color: #FFFFFF;
-	font-size: 3.5em;
+	font-size: 3em;
 	font-weight: 300;
 	line-height: 1em;
 	width: 5em;
@@ -132,14 +132,14 @@ section#about div {
 section#bio {
 	background-color: rgba(0,5,6,.7);
 	padding: 1.5em 1em 1.5em 1.5em;
-	margin: 1em 28em 1em 0em;
+	margin: 1em 24em 1em 0em;
 	/*margin: 1em 30em 1em 0em;*/
 }
 section#bio p {  
 	/*font-family: 'Merriweather',serif;*/
 	font-family: 'Robot',Sans-serif;
 	color: #f0e6b1;
-	font-weight: 400;
+	font-weight: 500;
 	font-size: 1.2em;
 	line-height: 1.2em;
 	/*padding: 1.5em;*/
