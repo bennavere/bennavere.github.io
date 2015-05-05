@@ -127,11 +127,11 @@ section#about {
 section#about div {
 	/*padding: 200px 0 0 100px;*/
 	/*padding: 8.5em 0em 0em 6.5em;*/
-	padding:4.5em 3em 0em 6.5em;	
+	padding:5.5% 3% 0% 7.7%;	
 }
 section#bio {
 	background-color: rgba(0,5,6,.7);
-	padding: 1.5em 1em 1.5em 1.5em;
+	padding: 2% 2% 2% 2%;
 	/*margin: 1em 0em 1em 0em;*/
 	width: 70%;
 	/*margin: 1em 30em 1em 0em;*/
@@ -204,7 +204,7 @@ section#bio p {
 }
 section#portfolio {
 	/*padding:100px 0 0 100px;*/
-	padding: 9em 0 10em 0em;
+	padding: 5% 0% 5% 0%;
 }
 section#portfolio>div {
 	/*padding: 200px 0 0 100px;*/
