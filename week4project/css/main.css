@@ -118,13 +118,13 @@ h2 {
 .after-hand-o-down {
 	clear: right;
 }
-.about {
+#about {
 	background-image: url("../images/about.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:100vh;
 }
-.about div {
+#about div {
 	/*padding: 200px 0 0 100px;*/
 	padding: 8.5em 0em 0em 6.5em;
 	/*padding:7.5em 3em 0em 6.5em;	*/
@@ -135,7 +135,7 @@ h2 {
 	/*margin: 1em 28em 1em 0em;*/
 	margin: 1em 30em 1em 0em;
 }*/
-.bio p {  
+#bio p {  
 	/*font-family: 'Merriweather',serif;*/
 	font-family: 'Robot',Sans-serif;
 	color: #f0e6b1;
