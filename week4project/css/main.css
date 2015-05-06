@@ -147,6 +147,7 @@ section#bio p {
 	/*padding: 1.5em;*/
 	width: 100%;
 	margin: -.2em;
+	display: block;
 	/*margin-left: 4.5em;	*/
 	/*margin-bottom: 2em;*/
 	/*background-color: rgba(0,5,6,.7); */
