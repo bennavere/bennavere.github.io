@@ -8,14 +8,14 @@
 		padding: 20% 0% 0% 3.2%;
 	}
 	nav {
-		margin: 2.2% 2% 0 0;
+		margin: 2.2% 2% 0% 0%;
 	}
 	nav a {
 		margin-left: 0em;
 		padding: .5em .5em .5em .5em;
 	}
 	section#about div {
-		padding: 9em 2em .5em 3em;
+		padding: 12% 0% 1% 3.2%;
 	}
 	section#porfolio {
 		padding: 20% 0% 10% 0%;
@@ -38,4 +38,8 @@
 		text-align: center; 
 		/*margin-left: 0em;*/
 		/*padding: .5em .5em .5em .5em;*/
+	}
+	section#about div {
+		padding: 15% 0% 1% 3.2%;
+	}
 }
