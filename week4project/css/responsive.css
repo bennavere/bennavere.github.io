@@ -1,6 +1,6 @@
 @media only screen and (min-width:1011px) and (max-width:1200px) {
 	header {
-		padding: 1em 2em .5em 3em;
+		padding: 2% 3% .5% 3%;
 	}
 	section#splash div {
 		/*margin-right: .5em;
@@ -8,7 +8,7 @@
 		padding: 9em 2em .5em 3em;
 	}
 	nav {
-		margin: .75em 1em 0 0;
+		margin: 2.2% 2% 0 0;
 	}
 	nav a {
 		margin-left: 0em;
