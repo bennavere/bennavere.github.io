@@ -38,6 +38,22 @@
 			<a href="index.html#about">About</a>
 			<a href="index.html#portfolio">Portfolio</a>
 		</nav>
+		<div class="mobile-nav">
+     		<div class="menu-btn" id="menu-btn">
+					<div></div>
+					<span></span>
+					<span></span>
+					<span></span>
+    	 	</div>
+ 
+    		<div class="responsive-menu">
+        		<ul>
+           			<li><a href="index.html">Fred Benna Photography</a></li>
+           			<li><a href="index.html#about">About</a></li>
+           			<li><a href="index.html#portfolio">Portfolio</a></li>
+        		</ul>
+     		</div>
+		</div>
 	</header>
 	<section id="splash">
 		<div>
@@ -111,6 +127,16 @@
 	$(document).ready(function() {
 		$(".fancybox").fancybox();
 	});
+	jQuery(function($){
+		$( '.menu-btn' ).click(function(){
+			$('.responsive-menu').toggleClass('expand')
+		})
+
+		$( '.close-btn' ).click(function(){
+			$('.responsive-menu').removeClass('expand')
+			$('.menu-btn').removeClass('btn-none')
+		})
+	})
 </script>
 </body>
 </html>
