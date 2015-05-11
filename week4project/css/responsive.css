@@ -7,9 +7,7 @@
 		margin-bottom: .1em;*/
 		padding: 20% 0% 0% 3.2%;
 	}
-	/*.mobile-nav {*/
-		display: none;
-	}
+	
 	nav {
 		margin: 2.2% 2% 0% 0%;
 	}
@@ -38,15 +36,7 @@
 		/*margin: 2.2% 2% 0 0;*/
 		display: none;
 	}
-	/*nav a {
-		display: block;
-		text-align: center; 
-		border:2px;
-		border-color: #ffffff;
-		border-style: solid;*/
-		/*margin-left: 0em;*/
-		/*padding: .5em .5em .5em .5em;*/
-	}
+	
 	.mobile-nav {
 		display: block;
 		/*position: fixed; top:0; left:0; right:0;*/
