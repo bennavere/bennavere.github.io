@@ -7,6 +7,9 @@
 		margin-bottom: .1em;*/
 		padding: 20% 0% 0% 3.2%;
 	}
+	.mobile-nav {
+		display: none;
+	}
 	nav {
 		margin: 2.2% 2% 0% 0%;
 	}
