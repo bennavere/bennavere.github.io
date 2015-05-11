@@ -62,4 +62,8 @@
 	nav {
 	display: none;
 	}
+	.mobile-nav {
+		display: block;
+		float: right;
+	}
 }
