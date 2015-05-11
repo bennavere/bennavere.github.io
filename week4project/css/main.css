@@ -61,7 +61,7 @@ div {
 .mobile-nav {
 	display: none;
 	float: right;
-	padding: .7em;
+	/*padding: .7em;*/
 }
 .menu-btn {
 	background: #ffffff;
@@ -84,7 +84,7 @@ div {
 	display: block;
 	width: 30px;
 	height: 5px;
-	margin: 4px 0;
+	margin: 4px 1px;
 	background: rgb(0,0,0);
 	z-index: 99;
 }
