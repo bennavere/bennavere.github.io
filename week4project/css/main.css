@@ -64,9 +64,9 @@ div {
 	padding: .7em;
 }
 .menu-btn {
-	background: #03a9f4;
+	background: #ffffff;
 	box-shadow: 4px 4px 2px rgba(150, 150, 150, 9);
-	padding: 5%;
+	padding:30%;
 }
 .menu-btn div {
 	position: absolute;
@@ -82,10 +82,10 @@ div {
 }
 .menu-btn span {
 	display: block;
-	width: 15%;
-	height: 5%;
-	margin: 2.5% 0;
-	background: none repeat scroll 0% 05 #000;
+	width: 19px;
+	height: 3px;
+	margin: 4px 0;
+	background: rgb(0,0,0);
 	z-index: 99;
 }
  
@@ -109,7 +109,7 @@ div {
 	right: 0;
 	background: #fff;
 	font-family: 'Roboto', Sans-serif;
-	font-size: 1em;
+	font-size: 2em;
 	text-transform: uppercase;
 	padding: 1em 2em 1em 1em;
 	line-height: 1.25em;
