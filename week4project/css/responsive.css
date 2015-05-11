@@ -46,7 +46,8 @@
 	}
 	.mobile-nav {
 		display: block;
-		position: fixed; top:0; left:0; right:0;
+		/*position: fixed; top:0; left:0; right:0;*/
+		float: right;
 	}
 	section#about div {
 		padding: 18% 0% 1% 3.2%;

@@ -4,7 +4,7 @@
 	<!-- Add jQuery library -->
 	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-	
+
 	<!-- Add mousewheel plugin (this is optional) -->
 	<script type="text/javascript" src="fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
 	
@@ -40,7 +40,7 @@
 			<a href="index.html#portfolio">Portfolio</a>
 		</nav>
 		<div class="mobile-nav">
-     		<div class="menu-btn" id="menu-btn">
+     		<div id="menu-btn" class="menu-btn" >
 					<div></div>
 					<span></span>
 					<span></span>
@@ -130,7 +130,7 @@
 	});
 	jQuery(function($){
 		$( '.menu-btn' ).click(function(){
-			$('.responsive-menu').toggleClass('expand')
+		$('.responsive-menu').toggleClass('expand')
 		})
 
 		$( '.close-btn' ).click(function(){

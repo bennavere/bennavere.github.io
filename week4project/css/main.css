@@ -60,6 +60,8 @@ div {
 **************************/
 .mobile-nav {
 	display: none;
+	float: right;
+	padding: .7em;
 }
 .menu-btn {
 	background: #03a9f4;
@@ -71,7 +73,7 @@ div {
 	left: 100%;
 	top: 64%;
 	padding-right: 8px;
-	margin-top: -0.50em;
+	margin-top: -0.5em;
 	line-height: 1.2;
 	font-size: 18px;
 	font-weight: 200;
@@ -83,16 +85,37 @@ div {
 	width: 15%;
 	height: 5%;
 	margin: 2.5% 0;
-	background: rgb(255,255,255);
+	background: none repeat scroll 0% 05 #000;
 	z-index: 99;
 }
  
 .responsive-menu{
 	display: none;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.responsive-menu a {
+	text-decoration: none;
+	color: #000;
+}
+.responsive-menu a:hover{
+	color: #fe5607;
 }
  
 .expand {
 	display: block !important;
+	position: absolute;
+	right: 0;
+	background: #fff;
+	font-family: 'Roboto', Sans-serif;
+	font-size: 1em;
+	text-transform: uppercase;
+	padding: 1em 2em 1em 1em;
+	line-height: 1.25em;
+}
+.responsive-menu ul{
+	list-style-type: none;
 }
 h1 {
 	font-family: 'Merriweather',serif;
