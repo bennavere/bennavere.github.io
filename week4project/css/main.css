@@ -60,7 +60,7 @@ div {
 **************************/
 .mobile-nav {
 	display: none;
-	float: right;
+	/*float: right;*/
 	/*padding: .7em;*/
 }
 .menu-btn {
