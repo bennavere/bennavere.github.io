@@ -68,7 +68,7 @@ div {
 }
 .menu-btn div {
 	position: absolute;
-	left: 90%;
+	left: 100%;
 	top: 64%;
 	padding-right: 8px;
 	margin-top: -0.50em;
@@ -80,8 +80,8 @@ div {
 }
 .menu-btn span {
 	display: block;
-	width: 5%;
-	height: 10%;
+	width: 15%;
+	height: 5%;
 	margin: 2.5% 0;
 	background: rgb(255,255,255);
 	z-index: 99;
