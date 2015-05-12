@@ -85,12 +85,15 @@
 	section#splash div {
 		/*margin-right: .5em;
 		margin-bottom: .1em;*/
-		padding: 10% 0% 0% 1.2%;
+		padding: 30% 0% 0% 1.2%;
 	}
 	h1 {
 		font-size: 2em;
 		line-height:.5em;
 
+	}
+	#index p {
+		width: 50%;
 	}
 
 }
