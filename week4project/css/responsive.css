@@ -67,5 +67,10 @@
 	}
 }
 @media only screen and (min-width: 450px) and (max-width: 565px) {
-
+	.logo {
+		font-size: 2em;
+	}
+	header {
+		padding: 1.5% 40% 1% 2%;
+	}
 }
