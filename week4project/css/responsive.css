@@ -34,7 +34,7 @@
 	}
 	nav {
 		margin: 2.2% 2% 0 0;
-		/*display: none;*/
+		display: right;
 	}
 	
 	.mobile-nav {
