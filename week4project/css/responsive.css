@@ -32,10 +32,10 @@
 		width: 30%;
 		padding:  1.5% 30% 1% 3%;	
 	}
-	/*nav {*/
+	nav {
 		margin: 2.2% 2% 0 0;
 		/*display: right;*/
-	/*}*/
+	}
 	
 	.mobile-nav {
 		display: none;
@@ -55,11 +55,12 @@
 		width: auto;
 		padding:  1.5% 30% 1% 3%;	
 	}
-	nav {
+	/*nav {*/
 		display: none;
-	}
+	/*}*/
 	.mobile-nav {
-		display: block;
+		display: none;
+		/*display: block;*/
 		/*float: right;*/
 		position: absolute;
 		left: 70%;
