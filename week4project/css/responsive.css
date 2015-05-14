@@ -59,6 +59,9 @@
 	.hand-o-down {
 		display: none;
 	}
+	.way {
+		display: none;
+	}
 }
 @media only screen and (min-width: 566px) and (max-width: 767px) {
 	header {
@@ -87,6 +90,9 @@
 		font-size: 3em;
 	}
 	.hand-o-down {
+		display: none;
+	}
+	.way {
 		display: none;
 	}
 }
@@ -121,6 +127,9 @@
 		width: 50%;
 	}
 	.hand-o-down {
+		display: none;
+	}
+	.way {
 		display: none;
 	}
 
