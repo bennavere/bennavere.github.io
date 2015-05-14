@@ -38,6 +38,9 @@
 		float:none;
 		/*display: right;*/
 	}
+	nav a {
+		padding: .5em 2em 2em 9em;
+	}
 	
 	.mobile-nav {
 		display: none;
