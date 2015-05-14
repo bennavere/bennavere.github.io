@@ -11,16 +11,11 @@ header {
 }
 section#splash {
 	background-image: url("../images/week4project.jpg");
-	/*background-size:cover;*/
+	background-size:cover;
 	background-repeat:no-repeat;
-	/*height:100vh;*/
+	height:100vh;
 }
-.stretch {
-	min-width: 100%;
-	max-height: 100%;
-	width: auto;
-	height: auto;
-}
+
 section#splash div {
 	padding:12em 0em 0em 6.3em;
 }
