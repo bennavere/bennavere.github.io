@@ -39,8 +39,8 @@
 		/*display: right;*/
 	}
 	nav a {
-		padding: .5em 2em 2em 9em;
-	}
+		padding: .5em .5em .5em .5em;
+	}	
 	
 	.mobile-nav {
 		display: none;
