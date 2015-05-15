@@ -362,6 +362,14 @@ footer a:hover {
 	display: block;
 	float:right;
 	padding: 0;
-/*	margin: 
-/*	width:;
+}
+#Street-gallery {
+	display: block;
+	float:right;
+	padding: 0;
+}
+#portraits-gallery {
+	display: block;
+	float:right;
+	padding: 0;
 }
