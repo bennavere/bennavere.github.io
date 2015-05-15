@@ -154,8 +154,12 @@
 		font-size: 1.5em;
 	}
 	section#bio p{
-		font-size: 75%;
-		line-height: 40%;
+		font-size: 100%;
+		line-height: 120%;
+	}
+	#about img{
+		width: 18em;
+		float: none;
 	}
 
 }
