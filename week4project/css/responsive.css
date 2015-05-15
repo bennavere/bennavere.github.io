@@ -153,5 +153,9 @@
 	h2 {
 		font-size: 1.5em;
 	}
+	section#bio p{
+		font-size: 75%;
+		line-height: 40%;
+	}
 
 }
