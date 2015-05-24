@@ -1,0 +1,377 @@
+* { margin:0;padding:0;box-sizing:border-box; }
+body {
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size:16px;
+}
+header {
+	background-color: rgba(0,5,6,.7);
+	position: fixed;top:0;left:0;right:0;
+	padding: 1em 4.8em 1em 6.3em;
+	/*z-index: 1;*/
+}
+section#splash {
+	background-image: url("../images/week4project.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:100vh;
+}
+
+section#splash div {
+	padding:12em 0em 0em 6.3em;
+}
+
+.logo {
+	display: block;
+	font-family: 'Roboto', Sans-serif;
+	font-size: 3em;
+	float:left;
+	color: #FFFFFF;
+	font-weight:700;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-shadow: 4px 4px 2px rgba(150, 150, 150, 9);
+}
+nav {
+	font-family: 'Roboto', Sans-serif;
+	font-size: 1.5em;
+	font-weight: 700;
+	float: right;
+	margin: .75em 1em 0 0;
+	text-transform: uppercase;
+	text-shadow: 4px 4px 2px rgba(150, 150, 150, 9);
+}
+nav a {
+	color: #FFFFFF;
+	font-size: 1em;
+	text-decoration: none;
+	margin-left: 1.5em;
+	padding: .5em .5em .5em .5em;
+	text-shadow: 4px 4px 2px rgba(150, 150, 150, 9);
+}
+nav a:hover {
+	background-color: #fe5607;
+}
+
+#main-header {
+	background-color: rgba(0,0,0,0);
+}
+div {
+	color: #FFFFFF;
+}
+/*************************
+        Hamberger Menu
+**************************/
+.mobile-nav {
+	display: none;
+	/*float: right;*/
+	/*padding: .7em;*/
+}
+.menu-btn {
+	
+	background: #ffffff;
+	/*box-shadow: 4px 4px 2px rgba(150, 150, 150, 9);*/
+	padding:30%;
+}
+.menu-btn div {
+	position: absolute;
+	left: 100%;
+	top: 64%;
+	padding-right: 8px;
+	margin-top: -0.5em;
+	line-height: 1.2;
+	font-size: 18px;
+	font-weight: 200;
+	vertical-align: middle;
+	z-index: 99;
+}
+.menu-btn span {
+	display: block;
+	width: 30px;
+	height: 5px;
+	margin: 4px 1px;
+	background: rgb(0,0,0);
+	z-index: 99;
+}
+ 
+.responsive-menu{
+	display: none;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.responsive-menu a {
+	text-decoration: none;
+	color: #000;
+}
+.responsive-menu a:hover{
+	color: #fe5607;
+}
+ 
+.expand {
+	display: block !important;
+	position: absolute;
+	/*right: 0;*/
+	background: #fff;
+	font-family: 'Roboto', Sans-serif;
+	font-size: 2em;
+	text-transform: uppercase;
+	padding: 1em 1em 1em 1em;
+	line-height: 1.25em;
+}
+.responsive-menu ul{
+	list-style-type: none;
+}
+h1 {
+	font-family: 'Merriweather',serif;
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 4.5em;
+	line-height: 1em;
+/*	margin-top: em;*/
+	margin-bottom: .5em;
+	margin-right: 2em;
+	background-color:
+}
+h1 span {
+	font-weight:700;
+}
+p {
+	font-size: 1em;
+	margin-top: .2em;
+	color: #ffffff;
+	
+}
+a {
+	color: rgb(14,243,239);
+}
+h2 {
+	font-family: 'Merriweather',serif;
+	color: #FFFFFF;
+	font-size: 3.2em;
+	font-weight: 300;
+	line-height: 1em;
+	width: 5em;
+	padding-bottom: 2%;
+/*	padding: 1.4em 1.3em 0 1.3em;*/
+/*	margin-bottom: 0em;*/
+/*	margin-left: .6em;*/
+		
+}
+
+#about img {
+	width: 12em;
+	padding: 0 1em 0em 0;
+	float: left;
+}
+
+.hand-o-down {
+	font-family: 'FontAwesome';
+	font-size: 1.5em;
+	width: 2em;
+	color: #ffffff;
+	display: block;
+	right: 7%;
+	position: absolute;
+	bottom: 0;
+	text-align:center;
+	border-radius: 075%;
+/*	background-color:;*/
+
+}
+.hand-o-down:hover {
+	color:#fe5607;
+/*	background:;*/
+}
+.after-hand-o-down {
+	clear: right;
+}
+section#about {
+	background-image: url("../images/about.jpg");
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	/*height:100%;*/
+}
+section#about div {
+	/*padding: 200px 0 0 100px;*/
+	/*padding: 8.5em 0em 0em 6.5em;*/
+	padding:10% 3% 0% 7.7%;	
+}
+section#bio {
+	background-color: rgba(0,5,6,.7);
+	padding: 3%;
+	/*margin: 1em 0em 1em 0em;*/
+	width: 70%;
+	/*margin: 1em 30em 1em 0em;*/
+}
+section#bio p {  
+	/*font-family: 'Merriweather',serif;*/
+	font-family: 'Robot',Sans-serif;
+	color: #ffffff;
+	font-weight: 500;
+	font-size: 140%;
+	line-height: 120%;
+	/*padding: 1.5em;*/
+	width: 100%;
+	/*margin: -.2em;*/
+	/*margin-left: 4.5em;	*/
+	/*margin-bottom: 2em;*/
+	/*background-color: rgba(0,5,6,.7); */
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+/*.hand-o-down {
+	font-family: 'FontAwesome';
+	font-size: 1.5em;
+	width: 2em;
+	color: #ffffff;
+	display: block;
+	right: 10%;
+	position: relative;
+	bottom: .5em;
+	text-align:center;
+	border-radius: 075%;
+/*	background-color:;*/
+/*}*/
+/*.hand-o-down:hover {
+	color: #aaa;
+	background:;
+}*/
+.way {
+	position: relative;
+}
+.way a  {
+	font-family: 'FontAwesome';
+	font-size: 1.5em;
+	width: 2em;
+	color: #ffffff;
+	display: block;
+	right: 7%;
+	position: absolute;
+	bottom: 0;
+	text-align:center;
+	border-radius: 075%;
+/*	margin: 2em .5em .5em 55.5em;*/
+	background-color:;
+}
+.way a:hover {
+	color: #fe5607;
+	background:;
+}
+#portfolio {
+	background-color: rgb(127,127,127);
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+section#portfolio {
+	/*padding:100px 0 0 100px;*/
+	padding: 5% 0% 5% 0%;
+}
+section#portfolio>div {
+	/*padding: 200px 0 0 100px;*/
+	/*padding: 10em 0 0 6.5em;*/
+	padding: 2em 6.4em 0em 6.5em;
+}
+#portfolio h2{
+	font-family: 'Merriweather',serif;
+	color: #ffffff;
+	font-size: 4em;
+	font-weight: 400;
+	line-height: 1em;
+	display: block;
+	/*padding: 0em 0em .5em 1.6em;*/
+/*	margin-left: .3em;*/
+}
+.cleare:after#portfolio div {
+	padding: 0em;
+}
+/*.column {
+	width:22em;
+	height: 18em;
+	padding: 4em;
+	margin: 5em 2em 2em 2em;
+	float: left;
+
+}*/
+#wrapper div {
+	float:right;
+	padding:.5em;
+	width:33.33%;
+}
+#wrapper img {
+	width:100%;
+}
+.photo-header {
+	background-color: rgba(0,5,6,.7);
+}
+footer {
+	position: absolute;
+	background-color: rgb(127,127,127);
+	background-size: 100%;
+	background: none repeat scroll;
+	/*background-repeat:no-repeat;*/
+	padding: 3% 45% 10% 5%;
+	width: 100%
+}
+footer a {
+	color: rgb(152 42 0);
+	padding: 0 0.5em;
+	/*margin-top: 10em;*/
+	float: right;
+}
+footer a:hover {
+	/*color: #aaa;*/
+	background-color: #fe5607;
+	padding: .2em .2em .2em .2em;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+/*#wrapper div.portrait1 {
+	clip: 0 0 70% 0;
+
+}*/
+.container {
+	margin:0 auto 0 auto;
+	width:72em;
+}
+.fa {
+	font-size:2em;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+#travel-gallery {
+	display: block;
+	float:right;
+	padding: 0;
+}
+#wrapper.Street-gallery {
+	display: block;
+	float:right;
+	padding: 0;
+	width: 30%;
+}
+#portraits-gallery {
+	display: block;
+	float:right;
+	padding: 0;
+	width: 30%;
+}

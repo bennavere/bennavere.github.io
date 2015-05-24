@@ -1,0 +1,94 @@
+* { margin:0;padding:0;box-sizing:border-box; }
+body {
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size:16px;
+}
+header {
+	background-color: rgba(0,5,6,.7);
+	position: relative;top:0;left:0;right:0;
+	padding: 1em 1em 1em 6.3em;
+}
+section#splash {
+	background-image: url("../images/week4project.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:100vh;
+}
+section#splash div {
+	padding:200px 0 0 100px;
+}
+.logo {
+	display: block;
+	font-family: 'Roboto Condensed', Sans-serif;
+	font-size: 3em;
+	float:left;
+	color: #FFFFFF;
+	font-weight:400;
+	text-decoration: none;
+}
+nav {
+	font-family: 'Roboto Condensed', Sans-serif;
+	font-size: 1.5em;
+	font-weight: 400;
+	float: right;
+	margin: .75em 1em 0 0;
+}
+nav a {
+	color: #FFFFFF;
+	font-size: 1em;
+	text-decoration: none;
+	margin-left: 1.5em;
+	padding: .5em .5em .5em .5em;
+}
+nav a:hover {
+	background-color: #aaaaaa;
+}
+#main-header {
+	background-color: rgba(0,0,0,0);
+}
+div {
+	color: #FFFFFF;
+}
+h1 {
+	font-family: 'Merriweather',serif;
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 4.5em;
+	line-height: 1em;
+	margin-top: em;
+	margin-bottom: .5em;
+	margin-right: 10em;
+	background-color:
+}
+h1 span {
+	font-weight:700;
+}
+p {
+	font-size: 1em;
+	margin-top: .2em;
+	color: #ffffff;
+	
+}
+a {
+	color: rgb(14,243,239);
+}
+h2 {
+	font-family: 'Merriweather',serif;
+	color: #FFFFFF;
+	font-size: 3.5em;
+	font-weight: 300;
+	line-height: 1em;
+	width: 5em;
+	padding: 2em 1.3em 0 1.3em;
+	margin-bottom: .7em;
+	margin-left: .6em;
+		
+}
+#travel {
+	float:right;
+	padding: 0;
+	margin: 
+}
+#travel-gallery img {
+	width: 100%;
+}
