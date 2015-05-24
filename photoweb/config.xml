@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	indexPageName="index.html"
+	useThumbDots="true"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/portraits.jpg"
+	thumbURL="thumbs/portraits.jpg"
+	linkURL="images/portraits.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits.jpg">
+    <title><![CDATA[portraits]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/portraits2.jpg"
+	thumbURL="thumbs/portraits2.jpg"
+	linkURL="images/portraits2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits2.jpg">
+    <title><![CDATA[portraits2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/portraits3.jpg"
+	thumbURL="thumbs/portraits3.jpg"
+	linkURL="images/portraits3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits3.jpg">
+    <title><![CDATA[portraits3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/portraits4.jpg"
+	thumbURL="thumbs/portraits4.jpg"
+	linkURL="images/portraits4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits4.jpg">
+    <title><![CDATA[portraits4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/portraits6.jpg"
+	thumbURL="thumbs/portraits6.jpg"
+	linkURL="images/portraits6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits6.jpg">
+    <title><![CDATA[portraits6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/portraits7.jpg"
+	thumbURL="thumbs/portraits7.jpg"
+	linkURL="images/portraits7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits7.jpg">
+    <title><![CDATA[portraits7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/portraits8.jpg"
+	thumbURL="thumbs/portraits8.jpg"
+	linkURL="images/portraits8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits8.jpg">
+    <title><![CDATA[portraits8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

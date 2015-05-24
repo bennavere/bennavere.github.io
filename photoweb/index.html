@@ -1,154 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<!-- Add jQuery library -->
-	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-	<!-- Add mousewheel plugin (this is optional) -->
-	<script type="text/javascript" src="fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
-	
-	<!-- Add fancyBox -->
-	<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
-	<script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
-	
-	<!-- Optionally add helpers - button, thumbnail and/or media -->
-	<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
-	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
-	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
-	
-	<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
-	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+	<title>Juicebox Gallery</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" id="jb-viewport" content="minimal-ui" />
+	<meta name="description" content="" />
 
-	<meta charset="utf-8">
-	<meta name="viewport" content="device-width, initial-scale=1">
-	<title>Fred Benna Photography</title>
-	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Roboto:400,500,700,900' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:800,300,400' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="css/reset.css">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-	<link rel="stylesheet" type="text/css" href="css/responsive.css">
+	<!-- START OPEN GRAPH TAGS-->
+	<meta property="og:title" content="Juicebox Gallery" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="" />
+	<meta property="og:image" content="" />
+	<meta property="og:description" content="" />
+	<!-- END OPEN GRAPH TAGS-->
+
+	<style type="text/css">
+	body {
+		margin: 0px;
+	}
+	</style>
 </head>
-<body>		
-	<header id="main-header">
-		<a class="logo" href="index.html">Fred Benna Photography</a>
-		<nav>
-			<a href="index.html#about">About</a>
-			<a href="index.html#portfolio">Portfolio</a>
-		</nav>
-		<div class="mobile-nav">
-     		<div id="menu-btn" class="menu-btn" >
-					<div></div>
-					<span></span>
-					<span></span>
-					<span></span>
-    	 	</div>
- 
-    		<div class="responsive-menu">
-        		<ul>
-           			<li><a href="index.html">Home</a></li>
-           			<li><a href="index.html#about">About</a></li>
-           			<li><a href="index.html#portfolio">Portfolio</a></li>
-        		</ul>
-     		</div>
-		</div>
-	</header>
-	<section id="splash">
-		<div>
-			<h1>We're painting<br>
-			<span>memories</span><br>
-			one photo at a time</h1>
-			<p>Come and paint with me at <a href="mailto:bennavere@gmail.com?subject=website, hello!" target="_blank">bennavere@gmail.com</a>.</p>						
-			<p><a href="http://www.linkedin.com/in/AlfredBenna" target="_blank">Follow me on LinkedIn</a></p>
-		</div>
-		<a href="#about" class="hand-o-down">
-			<i class="fa fa-angle-double-down"></i>
-		</a>
-	</section>
-	<section id="about">
-		<div>
-			<h2>Bio</h2>
-			<section id="bio">
-				<p><img src="images/fred.jpg" alt="My Headshot">I’m a photographer by definition. That’s not what I would claim to call myself- mainly because anyone who owns a camera calls themselves a photographer these days.</p><br>
-				<p>I’d say I’m a creative. That outlet that I use to be creative typically is my camera. I also like to design and build websites, mix sound for video and live events.</p><br>
-				<p>I’ve lead an exceptional life full of amazing experiences that have taught me to both learn and to create.  My enthusiastic dedication to technology and fun has led me down a path that has crossed over the ethereal realm of technology, through the colosseum of sports, around mountains of the outdoors, into the deep garages of mechanics and seated me at the homes of the humble.</p><br>
-				<p>The passion I have for fun, great relationships and awesome people, learning and sharing keeps me energized and optimistic in all I do.</p><br>
-				<p><span>Take a picture? Design and build a website? Or mix sound for a video or live show?</span></p><br>
-				<p><span>I can help with all that.</span></p>
-			</section>
-		</div>
-		<div class="way">
-			<a href="#portfolio" class="way-o-down">
-				<i class="fa fa-angle-double-down"></i>
-			</a>
-		</div>
-	</section>
-	<section id="portfolio" class="clearfix">
-		<div>
-			<h2>Portfolio</h2>
-		</div>
-		<div id="wrapper">
-			<div>
-				<h3>Travel</h3>
-				<a href="travel.html">
-				<img title="Travel photo's Gallery" alt="travel photos" src="images/travel.jpg">
-				</a>
-			</div>
-			<div>
-				<h3>Street</h3>
-				<a href="street.html">
-				<img title="Street photo's Gallery" alt="street photos" src="images/street.jpg">
-				</a>
-			</div>
-			<div>	
-				<h3>Portraits</h3>
-				<a href="Portrait Photo's Gallery" Alt="portrait photos" src="jbcore/juicebox.js">
-				<!--START JUICEBOX EMBED-->
-				<script>
-					new juicebox({
-					galleryWidth: "100%",
-					galleryHeight: "100%",
-					backgroundColor: "#222222"
-					});
-				</script>
-			<div id="juicebox-container"></div>
-				<!--END JUICEBOX EMBED-->
-			</div>
-		</div>
-	</section>
-	<footer>
-		<div>
-			<a target="_blank" href="http://instagram.com/bennavere">
-			<img title="Instagram" src="images/instagram.png">
-			</a>
-			<a target="_blank" href="http://www.linkedin.com/in/AlfredBenna">
-			<img title="Linkedin" src="images/linked-in.png">
-			</a>
-			<a target="_blank" href="mailto:bennavere@gmail.com?subject=Work Together, hello!">
-			<img title="email" src="images/mail.png">	
-			</a>						
-		</div>
-	</footer>
-	<script type="text/javascript">
-	$(document).ready(function() {
-		$(".fancybox").fancybox();
+<body>
+	<!--START JUICEBOX EMBED-->
+	<script src="jbcore/juicebox.js"></script>
+	<script>
+	new juicebox({
+		containerId: 'juicebox-container',
+		galleryWidth: '100%',
+		galleryHeight: '100%',
+		backgroundColor: '#222222'
 	});
-
-		jQuery(function($){
-			$( '.menu-btn' ).click(function(){
-			$('.responsive-menu').toggleClass('expand')
-			})
-
-		$( '.close-btn' ).click(function(){
-			$('.responsive-menu').removeClass('expand')
-			$('.menu-btn').removeClass('btn-none')
-			})
-	})
 	</script>
+	<div id="juicebox-container"></div>
+	<!--END JUICEBOX EMBED-->
 </body>
 </html>
-
-
-		
