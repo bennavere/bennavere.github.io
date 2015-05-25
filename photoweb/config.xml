@@ -3,6 +3,7 @@
 <juiceboxgallery 
 
 	indexPageName="portraits.html"
+	galleryTitle="portraits"
 
 >
   <image imageURL="images/portraits2.jpg"
