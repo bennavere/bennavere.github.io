@@ -374,4 +374,5 @@ footer a:hover {
 	float:right;
 	padding: 0;
 	width: 30%;
+	z-index: 99;
 }
