@@ -2,15 +2,19 @@
 
 <juiceboxgallery 
 
-	indexPageName="portraits.html"
 	galleryTitle="portraits"
+	useFullscreenExpand="true"
+	useThumbDots="false"
+	showThumbsButton="true"
+	showExpandButton="true"
+	indexPageName="portraits"
 
 >
   <image imageURL="images/portraits2.jpg"
 	thumbURL="thumbs/portraits2.jpg"
 	linkURL="images/portraits2.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\thumbs\portraits2.jpg">
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\week4project\images\portraits2.jpg">
     <title><![CDATA[portraits2]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -18,7 +22,7 @@
 	thumbURL="thumbs/portraits3.jpg"
 	linkURL="images/portraits3.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\thumbs\portraits3.jpg">
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\week4project\images\portraits3.jpg">
     <title><![CDATA[portraits3]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -26,15 +30,23 @@
 	thumbURL="thumbs/portraits4.jpg"
 	linkURL="images/portraits4.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\thumbs\portraits4.jpg">
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\week4project\images\portraits4.jpg">
     <title><![CDATA[portraits4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/portraits5.jpg"
+	thumbURL="thumbs/portraits5.jpg"
+	linkURL="images/portraits5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\week4project\images\portraits5.jpg">
+    <title><![CDATA[portraits5]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/portraits6.jpg"
 	thumbURL="thumbs/portraits6.jpg"
 	linkURL="images/portraits6.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\thumbs\portraits6.jpg">
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\week4project\images\portraits6.jpg">
     <title><![CDATA[portraits6]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -42,7 +54,7 @@
 	thumbURL="thumbs/portraits7.jpg"
 	linkURL="images/portraits7.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\thumbs\portraits7.jpg">
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\week4project\images\portraits7.jpg">
     <title><![CDATA[portraits7]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -50,7 +62,7 @@
 	thumbURL="thumbs/portraits8.jpg"
 	linkURL="images/portraits8.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\thumbs\portraits8.jpg">
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\week4project\images\portraits8.jpg">
     <title><![CDATA[portraits8]]></title>
     <caption><![CDATA[]]></caption>
   </image>
