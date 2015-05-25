@@ -2,81 +2,64 @@
 
 <juiceboxgallery 
 
-	galleryTitle="street"
-	useFullscreenExpand="false"
-	indexPageName="street"
+	galleryTitle="Portraits"
+	indexPageName="portraits"
 
 >
-  <image imageURL="images/trav_14.jpg"
-	thumbURL="thumbs/trav_14.jpg"
-	linkURL="images/trav_14.jpg"
+  <image imageURL="images/portraits.jpg"
+	thumbURL="thumbs/portraits.jpg"
+	linkURL="images/portraits.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\trav_14.jpg">
-    <title><![CDATA[trav_14]]></title>
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits.jpg">
+    <title><![CDATA[portraits]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/1.jpg"
-	thumbURL="thumbs/1.jpg"
-	linkURL="images/1.jpg"
+  <image imageURL="images/portraits3.jpg"
+	thumbURL="thumbs/portraits3.jpg"
+	linkURL="images/portraits3.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\1.jpg">
-    <title><![CDATA[1]]></title>
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits3.jpg">
+    <title><![CDATA[portraits3]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/content.jpg"
-	thumbURL="thumbs/content.jpg"
-	linkURL="images/content.jpg"
+  <image imageURL="images/portraits4.jpg"
+	thumbURL="thumbs/portraits4.jpg"
+	linkURL="images/portraits4.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\content.jpg">
-    <title><![CDATA[content]]></title>
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits4.jpg">
+    <title><![CDATA[portraits4]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/street1.jpg"
-	thumbURL="thumbs/street1.jpg"
-	linkURL="images/street1.jpg"
+  <image imageURL="images/portraits5.jpg"
+	thumbURL="thumbs/portraits5.jpg"
+	linkURL="images/portraits5.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\street1.jpg">
-    <title><![CDATA[street1]]></title>
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits5.jpg">
+    <title><![CDATA[portraits5]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/street2.jpg"
-	thumbURL="thumbs/street2.jpg"
-	linkURL="images/street2.jpg"
+  <image imageURL="images/portraits6.jpg"
+	thumbURL="thumbs/portraits6.jpg"
+	linkURL="images/portraits6.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\street2.jpg">
-    <title><![CDATA[street2]]></title>
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits6.jpg">
+    <title><![CDATA[portraits6]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/street3.jpg"
-	thumbURL="thumbs/street3.jpg"
-	linkURL="images/street3.jpg"
+  <image imageURL="images/portraits7.jpg"
+	thumbURL="thumbs/portraits7.jpg"
+	linkURL="images/portraits7.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\street3.jpg">
-    <title><![CDATA[street3]]></title>
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits7.jpg">
+    <title><![CDATA[portraits7]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/street4.jpg"
-	thumbURL="thumbs/street4.jpg"
-	linkURL="images/street4.jpg"
+  <image imageURL="images/portraits8.jpg"
+	thumbURL="thumbs/portraits8.jpg"
+	linkURL="images/portraits8.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\street4.jpg">
-    <title><![CDATA[street4]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/street5.jpg"
-	thumbURL="thumbs/street5.jpg"
-	linkURL="images/street5.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\street5.jpg">
-    <title><![CDATA[street5]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/street6.jpg"
-	thumbURL="thumbs/street6.jpg"
-	linkURL="images/street6.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\street6.jpg">
-    <title><![CDATA[street6]]></title>
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits8.jpg">
+    <title><![CDATA[portraits8]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
