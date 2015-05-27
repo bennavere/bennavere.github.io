@@ -362,19 +362,16 @@ footer a:hover {
 	display: block;
 	float:right;
 	padding: 0;
-	z-index: 99;
 }
 #wrapper.Street-gallery {
 	display: block;
 	float:right;
 	padding: 0;
 	width: 30%;
-	z-index: 99;
 }
 #portraits-gallery {
 	display: block;
 	float:right;
 	padding: 0;
 	width: 30%;
-	z-index: 99;
 }
