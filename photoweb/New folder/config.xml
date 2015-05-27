@@ -6,12 +6,12 @@
 	indexPageName="portraits"
 
 >
-  <image imageURL="images/portraits.jpg"
-	thumbURL="thumbs/portraits.jpg"
-	linkURL="images/portraits.jpg"
+  <image imageURL="images/portraits2.jpg"
+	thumbURL="thumbs/portraits2.jpg"
+	linkURL="images/portraits2.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits.jpg">
-    <title><![CDATA[portraits]]></title>
+	sourcePath="C:\Users\bennavere\Documents\GitHub\bennavere.github.io\photoweb\images\portraits2.jpg">
+    <title><![CDATA[portraits2]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/portraits3.jpg"
