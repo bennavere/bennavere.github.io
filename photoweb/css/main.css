@@ -288,6 +288,7 @@ section#portfolio>div {
 	/*padding: 0em 0em .5em 1.6em;*/
 /*	margin-left: .3em;*/
 }
+
 .cleare:after#portfolio div {
 	padding: 0em;
 }
@@ -306,6 +307,9 @@ section#portfolio>div {
 }
 #wrapper img {
 	width:100%;
+}
+.hidden {
+	display: none;
 }
 .photo-header {
 	background-color: rgba(0,5,6,.7);
