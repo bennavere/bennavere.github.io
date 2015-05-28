@@ -308,6 +308,7 @@ section#portfolio>div {
 #wrapper img {
 	width:100%;
 }
+#wrapper div.hidden {
 	display: none;
 }
 .photo-header {
