@@ -308,7 +308,7 @@ section#portfolio>div {
 #wrapper img {
 	width:100%;
 }
-.hidden {
+#fancybox.hidden {
 	display: none;
 }
 .photo-header {
