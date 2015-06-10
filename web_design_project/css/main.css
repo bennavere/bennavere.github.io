@@ -16,6 +16,9 @@ header img {
 	float: left;
 	height: 100%;
 }
+nav {
+	float: right;
+}
 nav a {
 	font-weight: 700;
 	color: #414141;
