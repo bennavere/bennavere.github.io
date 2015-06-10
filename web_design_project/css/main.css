@@ -28,5 +28,5 @@ nav a {
 	float: left;
 }
 nav a:hover {
-	background-color: #fe5607;
+	color: #fe5607;
 }
