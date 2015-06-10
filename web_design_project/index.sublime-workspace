@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"P",
+				"padding"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"cl",
+				"clip"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: HTML (Rails)"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/C/Users/bennavere/AppData/Local/Temp/Save For Web AI/ABennaDesignLogo_5.tmp/ABennaDesignLogo_5.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/photoweb/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/photoweb/css/main.css",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/photoweb/css/responsive.css",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/photoweb/street.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/photoweb/travel.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/photoweb/portraits.html",
+		"/C/Users/bennavere/Documents/Photography/Street photography/Street Photography 101 - Google Drive.html",
+		"/C/Users/bennavere/Desktop/juicebox/juicebox_lite_1.4.3.2/juicebox_lite_1.4.3.2/readme.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/photoweb/portraits/jbcore/full.html",
+		"/C/Users/bennavere/Desktop/juicebox/juicebox_lite_1.4.3.2/juicebox_lite_1.4.3.2/web/index.html",
+		"/C/Users/bennavere/Desktop/juicebox/juicebox_lite_1.4.3.2/juicebox_lite_1.4.3.2/web/jbcore/full.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/web_design_project/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week4project/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week4project/css/main.css",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week4project/travel.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week4project/css/responsive.css",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week4project/street.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week4project/portraits.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week3project/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/ELK Web Design/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/mywebsite/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/testproject/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/weekone/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/weekoneproject/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week4project/css/reset.css",
+		"/C/Users/bennavere/AppData/Local/Temp/Rar$EX10.582/icons-reference.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week4project/css/responsive",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week4project/css/travel.css",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/fancybox_test/jquery.fancybox.pack.js",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/fancybox_test/index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/cookierecipe/._index.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/cookierecipe/css/._reset.css",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/ELK Web Design/css/style.css",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/week5/ELK Web Design/index.html",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/week5/ELK Web Design/css/style.css",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/week5/sing a long/index.html",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/week5/sing a long/style.css/style.css",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/week5/Inline and Block/index.html",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/week5/Inline and Block/css/style.css",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week3project/css/main.css",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/week3project/images/midaspro2.png",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/Shayhowe/Styles-conference/shayhowe.html",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/weekone/css/main.css",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/weekone/main.css",
+		"/C/Users/bennavere/Documents/GitHub/bennavere.github.io/weekoneproject/css/main.css",
+		"/C/Users/bennavere/Desktop/Fred Benna Design Studio.html",
+		"/C/Users/bennavere/Desktop/class 1index.html",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/Shayhowe/css/main.css",
+		"/C/Users/bennavere/Programing Classes/Web Design Circuit/Shayhowe/shayhowe.html",
+		"/C/Users/bennavere/Desktop/News Bulletin/class 1index.html",
+		"/C/Users/bennavere/Desktop/News Bulletin/main.css",
+		"/C/Users/bennavere/Desktop/index.html",
+		"/C/Users/bennavere/Programing Classes/HTML Essential Training with James Williamson/Ex_Files_HTML_EssT/Exercise_files/Chapter_03/03_03/paragraphs.htm",
+		"/C/Users/bennavere/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/bennavere/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/bennavere/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/bennavere/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/bennavere/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
