@@ -14,4 +14,13 @@ header {
 header img {
 	display: block;
 	float: left;
+	height: 80%;
+}
+nav a {
+	font-weight: 700;
+	color: #414141;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 1em 1.5em 0px;
+	float: left;
 }
