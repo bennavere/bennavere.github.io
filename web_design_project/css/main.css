@@ -24,6 +24,9 @@ nav a {
 	color: #414141;
 	text-transform: uppercase;
 	text-decoration: none;
-	padding: 1em 1.5em 0px;
+	padding: 2em 1.5em 0px;
 	float: left;
+}
+nav a:hover {
+	background-color: #fe5607;
 }
