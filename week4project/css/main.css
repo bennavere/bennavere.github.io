@@ -187,10 +187,10 @@ h2 {
 }
 section#about {
 	background-image: url("../images/about.jpg") no-repeat 50% 50% fixed;
-	background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	-webkit-background-size:cover;
+	background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
 	/*background-repeat:no-repeat;*/
 	/*height:100%;*/
 }
