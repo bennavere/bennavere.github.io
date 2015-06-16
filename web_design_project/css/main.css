@@ -30,9 +30,16 @@ nav a {
 nav a:hover {
 	color: #fe5607;
 }
+body#background{
+	background: url("../images/desk2.jpg") no-repeat 50% 50% fixed;
+	background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:color;
+	-webkit-background-size:color;
+}
 #splash {
-	background-image: url("../images/desk2.jpg");
+/*	background-image: url("../images/desk2.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:100vh;
-}
+}*/
