@@ -10,10 +10,11 @@ header {
 	/*z-index: 1;*/
 }
 section#splash {
-	background-image: url("../images/week4project.jpg");
+	background: url("../images/week4project.jpg") no-repeat 50% 50% fixed;
 	background-size:cover;
-	background-repeat:no-repeat;
-	height:100vh;
+	-moz-background:cover;
+	-o-background:color;
+	-webkit-background:cover;
 }
 
 section#splash div {
