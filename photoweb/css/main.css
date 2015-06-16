@@ -186,9 +186,11 @@ h2 {
 	clear: right;
 }
 section#about {
-	background-image: url("../images/about.jpg");
-	background-size:100% 100%;
-	background-repeat:no-repeat;
+background: url("../images/about.jpg") no-repeat 50% 50% fixed;
+	background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
 	/*height:100%;*/
 }
 section#about div {
