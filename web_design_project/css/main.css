@@ -3,12 +3,19 @@ body {
 	font-family: Arial, Helvetica, Sans-serif;
 	font-size:16px;
 }
-header {
+body#background{
+	background: url("../images/desk-2.jpg") no-repeat 50% 50% fixed;
+	background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:color;
+	-webkit-background-size:color;
+}
+#main-header {
 	background: rgba(255, 255, 255, 50);
 	height: 6em;
 	padding: .1em 6em 0px;
 	position: fixed;
-	z-index: 100;
+	/*z-index: 100;*/
 	width: 100%;
 }
 header img {
@@ -30,13 +37,7 @@ nav a {
 nav a:hover {
 	color: #fe5607;
 }
-body#background{
-	background: url("../images/desk-2.jpg") no-repeat 50% 50% fixed;
-	background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:color;
-	-webkit-background-size:color;
-}
+
 #splash {
 /*	background-image: url("../images/desk2.jpg");
 	background-size:cover;
