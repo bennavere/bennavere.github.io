@@ -11,7 +11,7 @@ body#background{
 	-webkit-background-size:color;
 }
 header {
-	background: rgba(255, 255, 255, 50);
+	background: rgba(255, 255, 255, .95);
 	height: 6em;
 	padding: .1em 6em 0px;
 	position: fixed;
