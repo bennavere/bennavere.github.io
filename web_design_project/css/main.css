@@ -3,12 +3,12 @@ body {
 	font-family: Arial, Helvetica, Sans-serif;
 	font-size:16px;
 }
-header {
+header.logo {
 	background: rgba(255, 255, 255, 3) none repeat scroll 0% 0%;
 	height: 6em;
 	padding: .1em 6em 0px;
 	position: fixed;
-	/*z-index: 100;*/
+	z-index: 100;
 	width: 100%;
 }
 header img {
