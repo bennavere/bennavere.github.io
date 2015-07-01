@@ -5,7 +5,6 @@ body {
 }
 body#background{
 	background: url("../images/1.jpg") no-repeat 45% 45% fixed;
-	background: reverse;
 	background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:color;
