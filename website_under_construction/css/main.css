@@ -26,6 +26,11 @@ h1 {
 	margin-top: .2em;
 	margin-bottom: 1em;
 }
+img {
+	display: block;
+	float: right;
+	hight:20em;
+}
 /*header img {
 	display: block;
 	float: left;
