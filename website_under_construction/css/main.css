@@ -24,12 +24,14 @@ h1 {
 	font-size: 4.5em;
 	line-height: 1.5em;
 	margin-top: .2em;
-	margin-bottom: 1em;
+	margin-left: 2em;
 }
 a img {
 	display: block;
 	float: right;
 	height:20em;
+	background-color: rgba(255,255,255,.75);
+	margin-right: 3em;
 }
 /*header img {
 	display: block;
