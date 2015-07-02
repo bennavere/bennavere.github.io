@@ -33,6 +33,13 @@ a img {
 	background-color: rgba(255,255,255,.75);
 	margin-right: 3em;
 }
+p {
+	font-weight: 300;
+	font-size: 2.5em;
+	float: right;
+	color: rgb(255,255,255);
+	margin: 2em 1em 0em 20.5em;
+}
 /*header img {
 	display: block;
 	float: left;
