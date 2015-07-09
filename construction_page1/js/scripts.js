@@ -72,7 +72,7 @@ $(document).ready(function(){
            
               $(document).ready(function ()
               {
-                var austDay = new Date("January 1, 2015");
+                var austDay = new Date("September 1, 2015");
                 $('#launch_date').countdown(
                 {
                   until: austDay,
