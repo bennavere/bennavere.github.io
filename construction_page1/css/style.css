@@ -248,11 +248,11 @@ h1{
     text-align: center;
     opacity: 0;
     color: #fff;
-    -webkit-animation: titleAnimation 36s linear infinite 0s;
-    -moz-animation: titleAnimation 36s linear infinite 0s;
-    -o-animation: titleAnimation 36s linear infinite 0s;
-    -ms-animation: titleAnimation 36s linear infinite 0s;
-    animation: titleAnimation 36s linear infinite 0s; 
+    -webkit-animation: titleAnimation 40s linear infinite 0s;
+    -moz-animation: titleAnimation 40 linear infinite 0s;
+    -o-animation: titleAnimation 40s linear infinite 0s;
+    -ms-animation: titleAnimation 40s linear infinite 0s;
+    animation: titleAnimation 40s linear infinite 0s; 
 }
 .cb-slideshow li div h3 { 
     font-family: 'Raleway', 'Arial Narrow', Arial, sans-serif;
