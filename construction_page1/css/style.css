@@ -298,11 +298,11 @@ h1{
     animation-delay: 30s; 
 }
 .cb-slideshow li:nth-child(7) div { 
-    -webkit-animation-delay: 30s;
-    -moz-animation-delay: 30s;
-    -o-animation-delay: 30s;
-    -ms-animation-delay: 30s;
-    animation-delay: 30s; 
+    -webkit-animation-delay: 36s;
+    -moz-animation-delay: 36s;
+    -o-animation-delay: 36s;
+    -ms-animation-delay: 36s;
+    animation-delay: 36s; 
 }
 /* Animation for the title */
 @-webkit-keyframes titleAnimation { 
